@@ -1,0 +1,3450 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Li, ZR
+   Zeng, C
+   Deng, Z
+   Xu, QL
+   He, BW
+   Zhang, JW
+AF Li, Zhuoran
+   Zeng, Chao
+   Deng, Zhen
+   Xu, Qinling
+   He, Bingwei
+   Zhang, Jianwei
+TI Learning Variable Impedance Control for Robotic Massage With Deep
+   Reinforcement Learning: A Novel Learning Framework
+SO IEEE SYSTEMS MAN AND CYBERNETICS MAGAZINE
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2380-1298
+EI 2333-942X
+PD JAN
+PY 2024
+VL 10
+IS 1
+BP 17
+EP 27
+DI 10.1109/MSMC.2022.3231416
+UT WOS:001140373700002
+DA 2026-08-05
+ER
+
+PT J
+AU Yang, M
+   Lin, YJ
+   Church, A
+   Lloyd, J
+   Zhang, DD
+   Barton, DAW
+   Lepora, NF
+AF Yang, Max
+   Lin, Yijiong
+   Church, Alex
+   Lloyd, John
+   Zhang, Dandan
+   Barton, David A. W.
+   Lepora, Nathan F.
+TI Sim-to-Real Model-Based and Model-Free Deep Reinforcement Learning for
+   Tactile Pushing
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD SEP
+PY 2023
+VL 8
+IS 9
+BP 5480
+EP 5487
+DI 10.1109/LRA.2023.3295236
+UT WOS:001037883800003
+DA 2026-08-05
+ER
+
+PT C
+AU Kim, S
+   Sorokin, M
+   Lee, J
+   Ha, S
+AF Kim, Sunwoo
+   Sorokin, Maks
+   Lee, Jehee
+   Ha, Sehoon
+TI Human Motion Control of Quadrupedal Robots using Deep Reinforcement
+   Learning
+SO ROBOTICS: SCIENCE AND SYSTEM XVIII
+SE Robotics - Science and Systems
+LA English
+DT Proceedings Paper
+CT Conference on Robotics - Science and Systems (RSS)
+CY JUN 27-JUL 01, 2022
+CL New York City, NY
+PU RSS FOUNDATION-ROBOTICS SCIENCE & SYSTEMS FOUNDATION
+SN 2330-7668
+EI 2330-765X
+BN 978-0-9923747-8-5
+PY 2022
+UT WOS:000827625700021
+DA 2026-08-05
+ER
+
+PT J
+AU An, S
+   Meng, ZY
+   Tang, C
+   Zhou, YN
+   Liu, TY
+   Ding, FQ
+   Zhang, SF
+   Mu, Y
+   Song, R
+   Zhang, W
+   Hou, ZG
+   Zhang, H
+AF An, Shan
+   Meng, Ziyu
+   Tang, Chao
+   Zhou, Yuning
+   Liu, Tengyu
+   Ding, Fangqiang
+   Zhang, Shufang
+   Mu, Yao
+   Song, Ran
+   Zhang, Wei
+   Hou, Zeng-Guang
+   Zhang, Hong
+TI Dexterous Manipulation Through Imitation Learning: A Survey
+SO IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1545-5955
+EI 1558-3783
+PY 2026
+VL 23
+BP 1760
+EP 1792
+DI 10.1109/TASE.2025.3646183
+UT WOS:001663362600034
+DA 2026-08-05
+ER
+
+PT C
+AU Zhu, H
+   Gupta, A
+   Rajeswaran, A
+   Levine, S
+   Kumar, V
+AF Zhu, Henry
+   Gupta, Abhishek
+   Rajeswaran, Aravind
+   Levine, Sergey
+   Kumar, Vikash
+TI Dexterous Manipulation with Deep Reinforcement Learning: Efficient,
+   General, and Low-Cost
+SO 2019 INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 20-24, 2019
+CL Montreal, CANADA
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-5386-6026-3
+PY 2019
+BP 3651
+EP 3657
+DI 10.1109/icra.2019.8794102
+UT WOS:000494942302099
+DA 2026-08-05
+ER
+
+PT J
+AU Li, GF
+   Wang, RZ
+   Xu, PS
+   Ye, Q
+   Chen, JM
+AF Li, Gaofeng
+   Wang, Ruize
+   Xu, Peisen
+   Ye, Qi
+   Chen, Jiming
+TI The Developments and Challenges Toward Dexterous and Embodied Robotic
+   Manipulation: A Survey
+SO IEEE ROBOTICS & AUTOMATION MAGAZINE
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1070-9932
+EI 1558-223X
+PD MAR
+PY 2026
+VL 33
+IS 1
+BP 24
+EP 38
+DI 10.1109/MRA.2025.3642671
+UT WOS:001723816000004
+DA 2026-08-05
+ER
+
+PT J
+AU Li, YH
+   He, HY
+   Chai, J
+   Bai, GR
+   Dong, EB
+AF Li, Yanghong
+   He, Haiyang
+   Chai, Jin
+   Bai, Guangrui
+   Dong, Erbao
+TI Grasping Unknown Objects With Only One Demonstration
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD FEB
+PY 2025
+VL 10
+IS 2
+BP 987
+EP 994
+DI 10.1109/LRA.2024.3513037
+UT WOS:001383062500023
+DA 2026-08-05
+ER
+
+PT C
+AU Mosbach, M
+   Moraw, K
+   Behnke, S
+AF Mosbach, Malte
+   Moraw, Kara
+   Behnke, Sven
+TI Accelerating Interactive Human-like Manipulation Learning with GPU-based
+   Simulation and High-quality Demonstrations
+SO 2022 IEEE-RAS 21ST INTERNATIONAL CONFERENCE ON HUMANOID ROBOTS
+   (HUMANOIDS)
+SE IEEE-RAS International Conference on Humanoid Robots
+LA English
+DT Proceedings Paper
+CT IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids)
+CY NOV 28-30, 2022
+CL Ginowan, JAPAN
+PU IEEE
+SN 2164-0572
+BN 979-8-3503-0979-9
+PY 2022
+BP 435
+EP 441
+UT WOS:000925894300057
+DA 2026-08-05
+ER
+
+PT C
+AU Lee, D
+   Kim, H
+   Kim, S
+   Park, CW
+   Park, JH
+AF Lee, Donghun
+   Kim, Hyunseok
+   Kim, Seonghyun
+   Park, Chan-Won
+   Park, Jun Hee
+TI Learning Control Policy with Previous Experiences from Robot Simulator
+SO 11TH INTERNATIONAL CONFERENCE ON ICT CONVERGENCE: DATA, NETWORK, AND AI
+   IN THE AGE OF UNTACT (ICTC 2020)
+SE International Conference on Information and Communication Technology
+   Convergence
+LA English
+DT Proceedings Paper
+CT 11th International Conference on Information and Communication
+   Technology Convergence (ICTC) - Data, Network, and AI in the age of
+   Untact (ICTC)
+CY OCT 21-23, 2020
+CL Jeju, SOUTH KOREA
+PU IEEE
+SN 2162-1233
+BN 978-1-7281-6758-9
+PY 2020
+BP 863
+EP 865
+DI 10.1109/ictc49870.2020.9289214
+UT WOS:000692529100202
+DA 2026-08-05
+ER
+
+PT C
+AU Lin, P
+   Zhao, GD
+   Zhang, HY
+   Dong, JH
+   Zhang, SQ
+   Liu, MS
+   Liu, X
+AF Lin, Peng
+   Zhao, Guodong
+   Zhang, Haoyu
+   Dong, Jianhua
+   Zhang, Shuaiqi
+   Liu, Mingshuo
+   Liu, Xuan
+TI End-to-End Deep Reinforcement Learning for Inclined Ladder Steps
+   Grasping in Humanoid Robots
+SO COMPUTER APPLICATIONS, CCF NCCA 2024, PT I
+SE Communications in Computer and Information Science
+LA English
+DT Proceedings Paper
+CT 39th CCF National Conference on Computer Applications
+CY JUL 15-18, 2024
+CL Harbin, PEOPLES R CHINA
+PU SPRINGER-VERLAG SINGAPORE PTE LTD
+SN 1865-0929
+EI 1865-0937
+BN 978-981-97-9670-0; 978-981-97-9671-7
+PY 2024
+VL 2274
+BP 112
+EP 122
+DI 10.1007/978-981-97-9671-7_7
+UT WOS:001436568400007
+DA 2026-08-05
+ER
+
+PT C
+AU Miao, CY
+   Sun, MY
+   Jiang, YZ
+   Chen, YD
+   Cui, YD
+AF Miao, Chenyang
+   Sun, Mingyu
+   Jiang, Yingzhuo
+   Chen, Yidong
+   Cui, Yunduan
+TI Tactile Driven Reinforcement Learning Information Reconstruction for
+   Enhanced Dexterous Hand Telemanipulation
+SO 2025 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND BIOMIMETICS, ROBIO
+SE IEEE International Conference on Robotics and Biomimetics
+LA English
+DT Proceedings Paper
+CT 21st International Conference on Robotics and Biomimetics-ROBIO
+CY DEC 03-07, 2025
+CL Chengdu, PEOPLES R CHINA
+PU IEEE
+SN 2994-3566
+BN 979-8-3315-5748-5; 979-8-3315-5747-8
+PY 2025
+BP 2149
+EP 2156
+DI 10.1109/ROBIO66223.2025.11378324
+UT WOS:001748576700332
+DA 2026-08-05
+ER
+
+PT C
+AU Liu, WL
+   Li, B
+   Hou, LD
+   Yang, SH
+   Xu, YM
+   Liu, LX
+AF Liu, Weilong
+   Li, Bin
+   Hou, Landong
+   Yang, Shuhui
+   Xu, Yiming
+   Liu, Lixia
+TI A Motion Planning and Control Method of Quadruped Robot Based on Deep
+   Reinforcement Learning
+SO 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND BIOMIMETICS, ROBIO
+LA English
+DT Proceedings Paper
+CT 2022 International Conference on Robotics and Biomimetics-ROBIO
+CY DEC 05-09, 2022
+CL Xishuangbanna, PEOPLES R CHINA
+PU IEEE
+BN 978-1-6654-8109-0
+PY 2022
+BP 2003
+EP 2008
+DI 10.1109/ROBIO55434.2022.10011798
+UT WOS:001507554400326
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, C
+   Zhang, QF
+   Tian, QY
+   Li, S
+   Wang, XH
+   Lane, D
+   Petillot, Y
+   Wang, S
+AF Wang, Cong
+   Zhang, Qifeng
+   Tian, Qiyan
+   Li, Shuo
+   Wang, Xiaohui
+   Lane, David
+   Petillot, Yvan
+   Wang, Sen
+TI Learning Mobile Manipulation through Deep Reinforcement Learning
+SO SENSORS
+LA English
+DT Article
+PU MDPI
+EI 1424-8220
+PD FEB
+PY 2020
+VL 20
+IS 3
+AR 939
+DI 10.3390/s20030939
+UT WOS:000517786200363
+DA 2026-08-05
+ER
+
+PT C
+AU Farkas, BK
+   Galambos, P
+   Széll, K
+AF Farkas, Balint Karoly
+   Galambos, Peter
+   Szell, Karoly
+TI Advances in Autonomous Robotic Grasping An Overview of Reinforcement
+   Learning Approaches
+SO 2024 IEEE 6TH INTERNATIONAL SYMPOSIUM ON LOGISTICS AND INDUSTRIAL
+   INFORMATICS, LINDI
+SE International Symposium on Logistics and Industrial Informatics
+LA English
+DT Proceedings Paper
+CT 6th International Symposium on Logistics and Industrial
+   Informatics-LINDI-Annual
+CY OCT 23-25, 2024
+CL Karagandy, KAZAKHSTAN
+PU IEEE
+SN 2156-8790
+BN 979-8-3315-1620-8; 979-8-3315-1621-5
+PY 2024
+BP 213
+EP 220
+DI 10.1109/LINDI63813.2024.10820398
+UT WOS:001511760700038
+DA 2026-08-05
+ER
+
+PT C
+AU Kalashnikov, D
+   Irpan, A
+   Pastor, P
+   Ibarz, J
+   Herzog, A
+   Jang, E
+   Quillen, D
+   Holly, E
+   Kalakrishnan, M
+   Vanhoucke, V
+   Levine, S
+AF Kalashnikov, Dmitry
+   Irpan, Alex
+   Pastor, Peter
+   Ibarz, Julian
+   Herzog, Alexander
+   Jang, Eric
+   Quillen, Deirdre
+   Holly, Ethan
+   Kalakrishnan, Mrinal
+   Vanhoucke, Vincent
+   Levine, Sergey
+TI Scalable Deep Reinforcement Learning for Vision-Based Robotic
+   Manipulation
+SO CONFERENCE ON ROBOT LEARNING
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 2nd Conference on Robot Learning
+CY OCT 29-31, 2018
+CL Zurich, SWITZERLAND
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2018
+VL 87
+UT WOS:001443144500050
+DA 2026-08-05
+ER
+
+PT C
+AU Rivera, P
+   Oh, J
+   Valarezo, E
+   Ryu, G
+   Jung, H
+   Lee, JH
+   Jeong, JG
+   Kim, TS
+AF Rivera, Patricio
+   Oh, Jiheon
+   Valarezo, Edwin
+   Ryu, Gahyeon
+   Jung, Hwanseok
+   Lee, Jin Hyunk
+   Jeong, Jin Gyun
+   Kim, Tae-Seong
+TI Reward Shaping to Learn Natural Object Manipulation With an
+   Anthropomorphic Robotic Hand and Hand Pose Priors via On-Policy
+   Reinforcement Learning
+SO 12TH INTERNATIONAL CONFERENCE ON ICT CONVERGENCE (ICTC 2021): BEYOND THE
+   PANDEMIC ERA WITH ICT CONVERGENCE INNOVATION
+SE International Conference on Information and Communication Technology
+   Convergence
+LA English
+DT Proceedings Paper
+CT 12th International Conference on ICT Convergence (ICTC) - Beyond the
+   Pandemic Era with ICT Convergence Innovation
+CY OCT 20-22, 2021
+CL SOUTH KOREA
+PU IEEE
+SN 2162-1233
+BN 978-1-6654-2383-0
+PY 2021
+BP 167
+EP 171
+DI 10.1109/ICTC52510.2021.9620901
+UT WOS:000790235800039
+DA 2026-08-05
+ER
+
+PT J
+AU Li, ZJ
+   Zhao, T
+   Chen, F
+   Hu, YB
+   Su, CY
+   Fukuda, T
+AF Li, Zhijun
+   Zhao, Ting
+   Chen, Fei
+   Hu, Yingbai
+   Su, Chun-Yi
+   Fukuda, Toshio
+TI Reinforcement Learning of Manipulation and Grasping Using Dynamical
+   Movement Primitives for a Humanoidlike Mobile Manipulator
+SO IEEE-ASME TRANSACTIONS ON MECHATRONICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1083-4435
+EI 1941-014X
+PD FEB
+PY 2018
+VL 23
+IS 1
+BP 121
+EP 131
+DI 10.1109/TMECH.2017.2717461
+UT WOS:000425673100013
+DA 2026-08-05
+ER
+
+PT C
+AU Lum, TGW
+   Lee, OY
+   Liu, CK
+   Bohg, T
+AF Lum, Tyler Ga Wei
+   Lee, Olivia Y.
+   Liu, C. Karen
+   Bohg, Teannette
+TI Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One
+   Human Demonstration
+SO CONFERENCE ON ROBOT LEARNING
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 9th Conference on Robot Learning-CORL-Annual
+CY SEP 27-30, 2025
+CL SOUTH KOREA
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2025
+VL 305
+BP 4418
+EP 4441
+UT WOS:001676333500211
+DA 2026-08-05
+ER
+
+PT C
+AU Zhi, PY
+   Li, PY
+   Yin, JQ
+   Jia, BX
+   Huang, SY
+AF Zhi, Peiyuan
+   Li, Peiyang
+   Yin, Jianqin
+   Jia, Baoxiong
+   Huang, Siyuan
+TI Learning a Unified Policy for Position and Force Control in Legged
+   Loco-Manipulation
+SO CONFERENCE ON ROBOT LEARNING
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 9th Conference on Robot Learning-CORL-Annual
+CY SEP 27-30, 2025
+CL SOUTH KOREA
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2025
+VL 305
+BP 652
+EP 669
+UT WOS:001676333500031
+DA 2026-08-05
+ER
+
+PT J
+AU Ye, Q
+   Liu, QT
+   Wang, SY
+   Chen, JY
+   Cui, Y
+   Jin, K
+   Chen, HJ
+   Cai, X
+   Li, GF
+   Chen, JM
+AF Ye, Qi
+   Liu, Qingtao
+   Wang, Siyun
+   Chen, Jiaying
+   Cui, Yu
+   Jin, Ke
+   Chen, Huajin
+   Cai, Xuan
+   Li, Gaofeng
+   Chen, Jiming
+TI Visual-tactile pretraining and online multitask learning for humanlike
+   manipulation dexterity
+SO SCIENCE ROBOTICS
+LA English
+DT Article
+PU AMER ASSOC ADVANCEMENT SCIENCE
+SN 2470-9476
+PD JAN 28
+PY 2026
+VL 11
+IS 110
+AR eady2869
+DI 10.1126/scirobotics.ady2869
+UT WOS:001672490600003
+DA 2026-08-05
+ER
+
+PT C
+AU Han, GW
+   Liu, QT
+   Cui, Y
+   Chen, AJ
+   Chen, JM
+   Ye, Q
+AF Han, Guwen
+   Liu, Qingtao
+   Cui, Yu
+   Chen, Anjun
+   Chen, Jiming
+   Ye, Qi
+TI UpViTaL: Unpaired Visual-Tactile Self-Supervised Representation Learning
+   for Dexterous Robotic Manipulation
+SO 2025 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+LA English
+DT Proceedings Paper
+CT 2025 International Conference on Robotics and Automation-ICRA-Annual
+CY MAY 19-23, 2025
+CL Atlanta, GA
+PU IEEE
+BN 979-8-3315-4140-8; 979-8-3315-4139-2
+PY 2025
+BP 11838
+EP 11844
+DI 10.1109/ICRA55743.2025.11127230
+UT WOS:001614889900038
+DA 2026-08-05
+ER
+
+PT C
+AU He, ZM
+   Lei, K
+   Ze, YJ
+   Sreenath, K
+   Li, ZY
+   Xu, HZ
+AF He, Zhengmao
+   Lei, Kun
+   Ze, Yanjie
+   Sreenath, Koushil
+   Li, Zhongyu
+   Xu, Huazhe
+TI Learning Visual Quadrupedal Loco-Manipulation from Demonstrations
+SO 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS 2024)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2024 International Conference on Intelligent Robots and Systems
+CY OCT 14-18, 2024
+CL Abu Dhabi, U ARAB EMIRATES
+PU IEEE
+SN 2153-0858
+BN 979-8-3503-7771-2; 979-8-3503-7770-5
+PY 2024
+BP 9102
+EP 9109
+DI 10.1109/IROS58592.2024.10802742
+UT WOS:001433985300187
+DA 2026-08-05
+ER
+
+PT C
+AU Lee, MA
+   Zhu, YK
+   Srinivasan, K
+   Shah, P
+   Savarese, S
+   Li, FF
+   Garg, A
+   Bohg, J
+AF Lee, Michelle A.
+   Zhu, Yuke
+   Srinivasan, Krishnan
+   Shah, Parth
+   Savarese, Silvio
+   Li Fei-Fei
+   Garg, Anintesh
+   Bohg, Jeannette
+TI Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal
+   Representations for Contact-Rich Tasks
+SO 2019 INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 20-24, 2019
+CL Montreal, CANADA
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-5386-6026-3
+PY 2019
+BP 8943
+EP 8950
+DI 10.1109/icra.2019.8793485
+UT WOS:000494942306083
+DA 2026-08-05
+ER
+
+PT C
+AU Xu, K
+   Hu, ZY
+   Doshi, R
+   Rovinsky, A
+   Kumar, V
+   Gupta, A
+   Levine, S
+AF Xu, Kelvin
+   Hu, Zheyuan
+   Doshi, Ria
+   Rovinsky, Aaron
+   Kumar, Vikash
+   Gupta, Abhishek
+   Levine, Sergey
+TI Dexterous Manipulation from Images: Autonomous Real-World RL via Substep
+   Guidance
+SO 2023 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 29-JUN 02, 2023
+CL London, ENGLAND
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 979-8-3503-2365-8
+PY 2023
+BP 5938
+EP 5945
+DI 10.1109/ICRA48891.2023.10161493
+UT WOS:001036713004130
+DA 2026-08-05
+ER
+
+PT J
+AU Lee, MA
+   Zhu, YK
+   Zachares, P
+   Tan, M
+   Srinivasan, K
+   Savarese, S
+   Fei-Fei, L
+   Garg, A
+   Bohg, J
+AF Lee, Michelle A.
+   Zhu, Yuke
+   Zachares, Peter
+   Tan, Matthew
+   Srinivasan, Krishnan
+   Savarese, Silvio
+   Fei-Fei, Li
+   Garg, Animesh
+   Bohg, Jeannette
+TI Making Sense of Vision and Touch: Learning Multimodal Representations
+   for Contact-Rich Tasks
+SO IEEE TRANSACTIONS ON ROBOTICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1552-3098
+EI 1941-0468
+PD JUN
+PY 2020
+VL 36
+IS 3
+BP 582
+EP 596
+DI 10.1109/TRO.2019.2959445
+UT WOS:000543027200001
+DA 2026-08-05
+ER
+
+PT J
+AU Beltran-Hernandez, CC
+   Petit, D
+   Ramirez-Alpizar, IG
+   Nishi, T
+   Kikuchi, S
+   Matsubara, T
+   Harada, K
+AF Beltran-Hernandez, Cristian Camilo
+   Petit, Damien
+   Ramirez-Alpizar, Ixchel Georgina
+   Nishi, Takayuki
+   Kikuchi, Shinichi
+   Matsubara, Takamitsu
+   Harada, Kensuke
+TI Learning Force Control for Contact-Rich Manipulation Tasks With Rigid
+   Position-Controlled Robots
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD OCT
+PY 2020
+VL 5
+IS 4
+BP 5709
+EP 5716
+DI 10.1109/LRA.2020.3010739
+UT WOS:000554891100012
+DA 2026-08-05
+ER
+
+PT C
+AU Mandlekar, A
+   Zhu, YK
+   Garg, A
+   Booher, J
+   Spero, M
+   Tung, A
+   Gao, JL
+   Emmons, J
+   Gupta, A
+   Orbay, E
+   Savarese, S
+   Li, FF
+AF Mandlekar, Ajay
+   Zhu, Yuke
+   Garg, Animesh
+   Booher, Jonathan
+   Spero, Max
+   Tung, Albert
+   Gao, Julian
+   Emmons, John
+   Gupta, Anchit
+   Orbay, Emre
+   Savarese, Silvio
+   Li Fei-Fei
+TI ROBOTURK: A Crowdsourcing Platform for Robotic Skill Learning through
+   Imitation
+SO CONFERENCE ON ROBOT LEARNING
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 2nd Conference on Robot Learning
+CY OCT 29-31, 2018
+CL Zurich, SWITZERLAND
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2018
+VL 87
+UT WOS:001443144500066
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, Y
+   Beltran-Hernandez, CC
+   Wan, WW
+   Harada, K
+AF Wang, Yan
+   Beltran-Hernandez, Cristian C.
+   Wan, Weiwei
+   Harada, Kensuke
+TI Hybrid Trajectory and Force Learning of Complex Assembly Tasks: A
+   Combined Learning Framework
+SO IEEE ACCESS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2169-3536
+PY 2021
+VL 9
+BP 60175
+EP 60186
+DI 10.1109/ACCESS.2021.3073711
+UT WOS:000642762200001
+DA 2026-08-05
+ER
+
+PT C
+AU Sun, ZL
+   Yuan, K
+   Hu, WB
+   Yang, CY
+   Li, ZB
+AF Sun, Zhaole
+   Yuan, Kai
+   Hu, Wenbin
+   Yang, Chuanyu
+   Li, Zhibin
+TI Learning Pregrasp Manipulation of Objects from Ungraspable Poses
+SO 2020 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 31-JUN 15, 2020
+CL ELECTR NETWORK
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-7281-7395-5
+PY 2020
+BP 9917
+EP 9923
+DI 10.1109/icra40945.2020.9196982
+UT WOS:000712319506092
+DA 2026-08-05
+ER
+
+PT C
+AU van Baar, J
+   Sullivan, A
+   Cordorel, R
+   Jha, D
+   Romeres, D
+   Nikovski, D
+AF van Baar, Jeroen
+   Sullivan, Alan
+   Cordorel, Radu
+   Jha, Devesh
+   Romeres, Diego
+   Nikovski, Daniel
+TI Sim-to-Real Transfer Learning using Robustified Controllers in Robotic
+   Tasks involving Complex Dynamics
+SO 2019 INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 20-24, 2019
+CL Montreal, CANADA
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-5386-6026-3
+PY 2019
+BP 6001
+EP 6007
+DI 10.1109/icra.2019.8793561
+UT WOS:000494942304057
+DA 2026-08-05
+ER
+
+PT J
+AU Jangir, R
+   Hansen, N
+   Ghosal, S
+   Jain, M
+   Wang, XL
+AF Jangir, Rishabh
+   Hansen, Nicklas
+   Ghosal, Sambaran
+   Jain, Mohit
+   Wang, Xiaolong
+TI Look Closer: Bridging Egocentric and Third-Person Views With
+   Transformers for Robotic Manipulation
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD APR
+PY 2022
+VL 7
+IS 2
+BP 3046
+EP 3053
+DI 10.1109/LRA.2022.3144512
+UT WOS:000752014300018
+DA 2026-08-05
+ER
+
+PT C
+AU Ding, ZH
+   Tsai, YY
+   Lee, WW
+   Huang, BD
+AF Ding, Zihan
+   Tsai, Ya-Yen
+   Lee, Wang Wei
+   Huang, Bidan
+TI Sim-to-Real Transfer for Robotic Manipulation with Tactile Sensory
+SO 2021 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS)
+CY SEP 27-OCT 01, 2021
+CL ELECTR NETWORK
+PU IEEE
+SN 2153-0858
+BN 978-1-6654-1714-3
+PY 2021
+BP 6778
+EP 6785
+DI 10.1109/IROS51168.2021.9636259
+UT WOS:000755125505062
+DA 2026-08-05
+ER
+
+PT C
+AU Quintero-Peña, C
+   Chamzas, C
+   Sun, ZY
+   Unhelkar, V
+   Kavraki, LE
+AF Quintero-Pena, Carlos
+   Chamzas, Constantinos
+   Sun, Zhanyi
+   Unhelkar, Vaibhav
+   Kavraki, Lydia E.
+TI Human-Guided Motion Planning in Partially Observable Environments
+SO 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA 2022
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 23-27, 2022
+CL Philadelphia, PA
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-7281-9681-7
+PY 2022
+BP 7226
+EP 7232
+DI 10.1109/ICRA46639.2022.9811893
+UT WOS:000941277600094
+DA 2026-08-05
+ER
+
+PT C
+AU Wang, LR
+   Xiang, Y
+   Yang, W
+   Mousavian, A
+   Fox, D
+AF Wang, Lirui
+   Xiang, Yu
+   Yang, Wei
+   Mousavian, Arsalan
+   Fox, Dieter
+TI Goal-Auxiliary Actor-Critic for 6D Robotic Grasping with Point Clouds
+SO CONFERENCE ON ROBOT LEARNING, VOL 164
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 5th Conference on Robot Learning (CoRL)
+CY NOV 08-11, 2021
+CL London, ENGLAND
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2021
+VL 164
+BP 70
+EP 80
+UT WOS:001234872300007
+DA 2026-08-05
+ER
+
+PT J
+AU Al-Shanoon, A
+   Lang, HX
+   Wang, Y
+   Zhang, YF
+   Hong, WX
+AF Al-Shanoon, Abdulrahman
+   Lang, Haoxiang
+   Wang, Ying
+   Zhang, Yunfei
+   Hong, Wenxin
+TI Learn to grasp unknown objects in robotic manipulation
+SO INTELLIGENT SERVICE ROBOTICS
+LA English
+DT Article
+PU SPRINGER HEIDELBERG
+SN 1861-2776
+EI 1861-2784
+PD SEP
+PY 2021
+VL 14
+IS 4
+BP 571
+EP 582
+DI 10.1007/s11370-021-00380-9
+UT WOS:000686055200001
+DA 2026-08-05
+ER
+
+PT J
+AU Ha, S
+AF Ha, Sehoon
+TI Quadrupedal robots trot into the wild
+SO SCIENCE ROBOTICS
+LA English
+DT Editorial Material
+PU AMER ASSOC ADVANCEMENT SCIENCE
+SN 2470-9476
+PD OCT 21
+PY 2020
+VL 5
+IS 47
+AR eabe5218
+DI 10.1126/scirobotics.abe5218
+UT WOS:000581106800003
+DA 2026-08-05
+ER
+
+PT C
+AU Liu, WH
+   Wang, JB
+   Wang, YM
+   Wang, WM
+   Lu, CW
+AF Liu, Wenhai
+   Wang, Junbo
+   Wang, Yiming
+   Wang, Weiming
+   Lu, Cewu
+TI ForceMimic: Force-Centric Imitation Learning with Force-Motion Capture
+   System for Contact-Rich Manipulation
+SO 2025 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA
+LA English
+DT Proceedings Paper
+CT 2025 International Conference on Robotics and Automation-ICRA-Annual
+CY MAY 19-23, 2025
+CL Atlanta, GA
+PU IEEE
+BN 979-8-3315-4140-8; 979-8-3315-4139-2
+PY 2025
+BP 1105
+EP 1112
+DI 10.1109/ICRA55743.2025.11128061
+UT WOS:001582497400099
+DA 2026-08-05
+ER
+
+PT J
+AU Kobayashi, M
+   Buamanee, T
+   Kobayashi, T
+AF Kobayashi, Masato
+   Buamanee, Thanpimon
+   Kobayashi, Takumi
+TI ALPHA-α and Bi-ACT Are All You Need: Importance of Position and Force
+   Information/ Control for Imitation Learning of Unimanual and Bimanual
+   Robotic Manipulation With Low-Cost System
+SO IEEE ACCESS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2169-3536
+PY 2025
+VL 13
+BP 29886
+EP 29899
+DI 10.1109/ACCESS.2025.3541200
+UT WOS:001425541100050
+DA 2026-08-05
+ER
+
+PT C
+AU Ding, RY
+   Qin, YZ
+   Zhu, JY
+   Jia, CZ
+   Yang, SQ
+   Yang, RH
+   Qi, XJ
+   Wang, XL
+AF Ding, Runyu
+   Qin, Yuzhe
+   Zhu, Jiyue
+   Jia, Chengzhe
+   Yang, Shiqi
+   Yang, Ruihan
+   Qi, Xiaojuan
+   Wang, Xiaolong
+TI Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for
+   Imitation Learning
+SO 2025 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2025 International Conference on Intelligent Robots and Systems-IROS
+CY OCT 19-25, 2025
+CL Hangzhou, PEOPLES R CHINA
+PU IEEE
+SN 2153-0858
+BN 979-8-3315-4394-5; 979-8-3315-4393-8
+PY 2025
+BP 12248
+EP 12255
+DI 10.1109/IROS60139.2025.11247017
+UT WOS:001734964700480
+DA 2026-08-05
+ER
+
+PT C
+AU Kobayashi, T
+   Kobayashi, M
+   Buamanee, T
+   Uranishi, Y
+AF Kobayashi, Takumi
+   Kobayashi, Masato
+   Buamanee, Thanpimon
+   Uranishi, Yuki
+TI Bi-LAT: Bilateral Control-Based Imitation Learning via Natural Language
+   and Action Chunking with Transformers
+SO 2025 34TH IEEE INTERNATIONAL CONFERENCE ON ROBOT AND HUMAN INTERACTIVE
+   COMMUNICATION, RO-MAN
+SE IEEE RO-MAN
+LA English
+DT Proceedings Paper
+CT 34th International Symposium on Robot and Human Interactive
+   Communication-RO-MAN-Annual
+CY AUG 25-29, 2025
+CL Eindhoven, NETHERLANDS
+PU IEEE
+SN 1944-9445
+BN 979-8-3315-8772-7; 979-8-3315-8771-0
+PY 2025
+BP 1609
+EP 1616
+DI 10.1109/RO-MAN63969.2025.11217852
+UT WOS:001672967200221
+DA 2026-08-05
+ER
+
+PT J
+AU Aslam, S
+   Kumar, K
+   Zhou, PK
+   Yu, HY
+   Wang, MY
+   She, Y
+AF Aslam, Shoaib
+   Kumar, Krish
+   Zhou, Pokuang
+   Yu, Hongyu
+   Wang, Michael Yu
+   She, Yu
+TI DartBot: Overhand Throwing of Deformable Objects With Tactile Sensing
+   and Reinforcement Learning
+SO IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1545-5955
+EI 1558-3783
+PY 2025
+VL 22
+BP 13644
+EP 13661
+DI 10.1109/TASE.2025.3556875
+UT WOS:001470389400026
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, YC
+   Zheng, S
+   Yang, Z
+   Guo, JM
+   Yang, ZT
+   Hong, J
+AF Wang, Yichen
+   Zheng, Shuai
+   Yang, Ze
+   Guo, Jingmin
+   Yang, Zitong
+   Hong, Jun
+TI A global and local agent-based curriculum reinforcement learning
+   approach for multi-end-effector robotic arm manipulation
+SO ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+LA English
+DT Article
+PU PERGAMON-ELSEVIER SCIENCE LTD
+SN 0952-1976
+EI 1873-6769
+PD JAN 1
+PY 2026
+VL 163
+AR 113121
+DI 10.1016/j.engappai.2025.113121
+UT WOS:001622617400006
+DA 2026-08-05
+ER
+
+PT J
+AU Kim, H
+   Ohmura, Y
+   Nagakubo, A
+   Kuniyoshi, Y
+AF Kim, Heecheol
+   Ohmura, Yoshiyuki
+   Nagakubo, Akihiko
+   Kuniyoshi, Yasuo
+TI Training Robots Without Robots: Deep Imitation Learning for
+   Master-to-Robot Policy Transfer
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD MAY
+PY 2023
+VL 8
+IS 5
+BP 2906
+EP 2913
+DI 10.1109/LRA.2023.3262423
+UT WOS:000965123100004
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, Y
+   Chen, H
+   Xu, C
+   Cai, SZ
+AF Wang, Yong
+   Chen, Hua
+   Xu, Chao
+   Cai, Shengze
+TI An Intuitive Multi-Task Manipulation Policy for Imitation Learning in
+   Simulated and Real Robots
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 0278-0046
+EI 1557-9948
+PD JUL
+PY 2026
+VL 73
+IS 7
+BP 10254
+EP 10266
+DI 10.1109/TIE.2026.3658676
+UT WOS:001702942100001
+DA 2026-08-05
+ER
+
+PT C
+AU Scobee, DRR
+   Royo, VR
+   Tomlin, CJ
+   Sastry, SS
+AF Scobee, Dexter R. R.
+   Royo, Vicenc Rubies
+   Tomlin, Claire J.
+   Sastry, S. Shankar
+TI Haptic Assistance via Inverse Reinforcement Learning
+SO 2018 IEEE INTERNATIONAL CONFERENCE ON SYSTEMS, MAN, AND CYBERNETICS
+   (SMC)
+SE IEEE International Conference on Systems Man and Cybernetics Conference
+   Proceedings
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+CY OCT 07-10, 2018
+CL IEEE Syst Man & Cybernet Soc, Miyazaki, JAPAN
+PU IEEE
+SN 1062-922X
+BN 978-1-5386-6650-0
+PY 2018
+BP 1510
+EP 1517
+DI 10.1109/SMC.2018.00262
+UT WOS:000459884801099
+DA 2026-08-05
+ER
+
+PT J
+AU Chen, DY
+   Tang, K
+   Zhang, YK
+   Kosuge, K
+   Hirata, Y
+AF Chen, Dayuan
+   Tang, Kai
+   Zhang, Yukuan
+   Kosuge, Kazuhiro
+   Hirata, Yasuhisa
+TI Phase-Conditioned Imitation Learning With Autonomous Failure Recovery
+   for Robust Deformable Object Manipulation
+SO IEEE-ASME TRANSACTIONS ON MECHATRONICS
+LA English
+DT Article; Early Access
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1083-4435
+EI 1941-014X
+PD 2026 JUN 22
+PY 2026
+DI 10.1109/TMECH.2026.3698472
+UT WOS:001805618700001
+DA 2026-08-05
+ER
+
+PT J
+AU Qin, YZ
+   Su, H
+   Wang, XL
+AF Qin, Yuzhe
+   Su, Hao
+   Wang, Xiaolong
+TI From One Hand to Multiple Hands: Imitation Learning for Dexterous
+   Manipulation From Single-Camera Teleoperation
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD OCT
+PY 2022
+VL 7
+IS 4
+BP 10873
+EP 10881
+DI 10.1109/LRA.2022.3196104
+UT WOS:000844135200005
+DA 2026-08-05
+ER
+
+PT C
+AU Li, KL
+   Chappell, D
+   Rojas, N
+AF Li, Kelin
+   Chappell, Digby
+   Rojas, Nicolas
+TI Immersive Demonstrations are the Key to Imitation Learning
+SO 2023 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 29-JUN 02, 2023
+CL London, ENGLAND
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 979-8-3503-2365-8
+PY 2023
+BP 5071
+EP 5077
+DI 10.1109/ICRA48891.2023.10160560
+UT WOS:001036713004007
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, YZ
+   Yu, W
+   Wu, H
+   Guo, HT
+   Dong, HX
+AF Wang, Yanzhe
+   Yu, Wei
+   Wu, Hao
+   Guo, Haotian
+   Dong, Huixu
+TI SA-DEM: Dexterous Extrinsic Robotic Manipulation of Non-Graspable
+   Objects via Stiffness-Aware Dual-Stage Reinforcement Learning
+SO IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1545-5955
+EI 1558-3783
+PY 2026
+VL 23
+BP 347
+EP 362
+DI 10.1109/TASE.2025.3634725
+UT WOS:001655706200008
+DA 2026-08-05
+ER
+
+PT J
+AU Liu, HX
+   Komatsu, R
+   Nakashima, S
+   Hamada, H
+   Matsuhira, N
+   Asama, H
+   Yamashita, A
+AF Liu, Haoxiang
+   Komatsu, Ren
+   Nakashima, Shinsuke
+   Hamada, Hiroyuki
+   Matsuhira, Nobuto
+   Asama, Hajime
+   Yamashita, Atsushi
+TI Viewpoint Selection for the Efficient Teleoperation of a Robot Arm Using
+   Reinforcement Learning
+SO IEEE ACCESS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2169-3536
+PY 2023
+VL 11
+BP 119647
+EP 119658
+DI 10.1109/ACCESS.2023.3327826
+UT WOS:001102310200001
+DA 2026-08-05
+ER
+
+PT J
+AU Gan, L
+   Grizzle, JW
+   Eustice, RM
+   Ghaffari, M
+AF Gan, Lu
+   Grizzle, Jessy W.
+   Eustice, Ryan M.
+   Ghaffari, Maani
+TI Energy-Based Legged Robots Terrain Traversability Modeling via Deep
+   Inverse Reinforcement Learning
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD OCT
+PY 2022
+VL 7
+IS 4
+BP 8807
+EP 8814
+DI 10.1109/LRA.2022.3188100
+UT WOS:000838567100032
+DA 2026-08-05
+ER
+
+PT C
+AU Si, WY
+   Jin, ZH
+   Lu, ZY
+   Wang, N
+   Yang, CG
+AF Si, Weiyong
+   Jin, Zhehao
+   Lu, Zhenyu
+   Wang, Ning
+   Yang, Chenguang
+TI A Stable Guidance Method for Teleoperation-based Robot Learning from
+   Demonstration
+SO 2024 IEEE 20TH INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND
+   ENGINEERING, CASE 2024
+SE IEEE International Conference on Automation Science and Engineering
+LA English
+DT Proceedings Paper
+CT IEEE 20th International Conference on Automation Science and Engineering
+   (CASE)
+CY AUG 28-SEP 01, 2024
+CL Bari, ITALY
+PU IEEE
+SN 2161-8070
+BN 979-8-3503-5851-3; 979-8-3503-5852-0
+PY 2024
+BP 2376
+EP 2381
+DI 10.1109/CASE59546.2024.10711823
+UT WOS:001361783102006
+DA 2026-08-05
+ER
+
+PT C
+AU Lin, N
+   Zhang, LR
+   Chen, YX
+   Zhu, YJ
+   Chen, RX
+   Wu, PC
+   Chen, XP
+AF Lin, Nan
+   Zhang, Linrui
+   Chen, Yuxuan
+   Zhu, Yujun
+   Chen, Ruoxi
+   Wu, Peichen
+   Chen, Xiaoping
+TI Reinforcement Learning for Robotic Safe Control with Force Sensing
+SO 2019 WORLD ROBOT CONFERENCE SYMPOSIUM ON ADVANCED ROBOTICS AND
+   AUTOMATION (WRC SARA 2019)
+LA English
+DT Proceedings Paper
+CT 2nd World Robot Conference (WRC) / Symposium on Advanced Robotics and
+   Automation (WRC SARA)
+CY AUG 21, 2019
+CL Beijing, PEOPLES R CHINA
+PU IEEE
+BN 978-1-7281-5552-4
+PY 2019
+BP 148
+EP 153
+DI 10.1109/wrc-sara.2019.8931917
+UT WOS:000526063400025
+DA 2026-08-05
+ER
+
+PT C
+AU Ansari, Y
+   Falotico, E
+   Mollard, Y
+   Busch, B
+   Cianchetti, M
+   Laschi, C
+AF Ansari, Yasmin
+   Falotico, Egidio
+   Mollard, Yoan
+   Busch, Baptiste
+   Cianchetti, Matteo
+   Laschi, Cecilia
+TI A Multiagent Reinforcement Learning Approach for Inverse Kinematics of
+   High Dimensional Manipulators with Precision Positioning
+SO 2016 6TH IEEE INTERNATIONAL CONFERENCE ON BIOMEDICAL ROBOTICS AND
+   BIOMECHATRONICS (BIOROB)
+SE Proceedings of the IEEE RAS-EMBS International Conference on Biomedical
+   Robotics and Biomechatronics
+LA English
+DT Proceedings Paper
+CT 6th IEEE International Conference on Biomedical Robotics and
+   Biomechatronics (BioRob)
+CY JUN 26-29, 2016
+CL SINGAPORE
+PU IEEE
+SN 2155-1782
+BN 978-1-5090-3287-7
+PY 2016
+BP 457
+EP 463
+UT WOS:000392266900080
+DA 2026-08-05
+ER
+
+PT J
+AU Huang, JD
+   Chen, K
+   Zhou, JS
+   Lin, XY
+   Abbeel, P
+   Dou, Q
+   Liu, YH
+AF Huang, Junda
+   Chen, Kai
+   Zhou, Jianshu
+   Lin, Xingyu
+   Abbeel, Pieter
+   Dou, Qi
+   Liu, Yunhui
+TI DIH-Tele: Dexterous In-Hand Teleoperation Framework for Learning
+   Multiobjects Manipulation With Tactile Sensing
+SO IEEE-ASME TRANSACTIONS ON MECHATRONICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1083-4435
+EI 1941-014X
+PD OCT
+PY 2025
+VL 30
+IS 5
+BP 3840
+EP 3851
+DI 10.1109/TMECH.2025.3532653
+UT WOS:001470923300001
+DA 2026-08-05
+ER
+
+PT C
+AU Li, KL
+   Li, PH
+   Liu, TY
+   Li, YY
+   Huang, SY
+AF Li, Kailin
+   Li, Puhao
+   Liu, Tengyu
+   Li, Yuyang
+   Huang, Siyuan
+TI MANIPTRANS: Efficient Dexterous Bimanual Manipulation Transfer via
+   Residual Learning
+SO 2025 IEEE/CVF CONFERENCE ON COMPUTER VISION AND PATTERN RECOGNITION
+   (CVPR)
+SE IEEE Conference on Computer Vision and Pattern Recognition
+LA English
+DT Proceedings Paper
+CT 2025 Conference on Computer Vision and Pattern Recognition-CVPR-Annual
+CY JUN 10-17, 2025
+CL Nashville, TN
+PU IEEE COMPUTER SOC
+SN 1063-6919
+BN 979-8-3315-4365-5; 979-8-3315-4364-8
+PY 2025
+BP 6991
+EP 7003
+DI 10.1109/CVPR52734.2025.00656
+UT WOS:001601106700075
+DA 2026-08-05
+ER
+
+PT J
+AU Ojaghi, P
+   Mir, R
+   Marjaninejad, A
+   Erwin, A
+   Wehner, M
+   Valero-Cuevas, FJ
+AF Ojaghi, Pegah
+   Mir, Romina
+   Marjaninejad, Ali
+   Erwin, Andrew
+   Wehner, Michael
+   Valero-Cuevas, Francisco J.
+TI Curriculum is more influential than haptic feedback when learning object
+   manipulation
+SO SCIENCE ADVANCES
+LA English
+DT Article
+PU AMER ASSOC ADVANCEMENT SCIENCE
+EI 2375-2548
+PD APR 2
+PY 2025
+VL 11
+IS 14
+AR eadp8407
+DI 10.1126/sciadv.adp8407
+UT WOS:001457401500007
+DA 2026-08-05
+ER
+
+PT C
+AU Kebria, PM
+   Nahavandi, S
+   Howe, RD
+AF Kebria, Parham M.
+   Nahavandi, Saeid
+   Howe, Robert D.
+TI Learning Human-Robot Interactions in Perturbed Teleoperations
+SO 2025 IEEE 21ST INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND
+   ENGINEERING, CASE
+SE IEEE International Conference on Automation Science and Engineering
+LA English
+DT Proceedings Paper
+CT 21st International Conference on Automation Science and
+   Engineering-CASE-Annual
+CY AUG 17-21, 2025
+CL Los Angeles, CA
+PU IEEE
+SN 2161-8070
+BN 979-8-3315-2246-9
+PY 2025
+BP 1987
+EP 1993
+DI 10.1109/CASE58245.2025.11163984
+UT WOS:001701272600237
+DA 2026-08-05
+ER
+
+PT C
+AU Chao, XT
+   Mu, SL
+   Liu, YS
+   Li, SJ
+   Lyu, CQ
+   Zhang, XP
+   Ding, WB
+AF Chao, Xintao
+   Mu, Shilong
+   Liu, Yushan
+   Li, Shoujie
+   Lyu, Chuqiao
+   Zhang, Xiao-Ping
+   Ding, Wenbo
+TI Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic
+   Feedback for Efficient Dexterous Skill Learning
+SO 2025 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2025 International Conference on Intelligent Robots and Systems-IROS
+CY OCT 19-25, 2025
+CL Hangzhou, PEOPLES R CHINA
+PU IEEE
+SN 2153-0858
+BN 979-8-3315-4394-5; 979-8-3315-4393-8
+PY 2025
+BP 18732
+EP 18739
+DI 10.1109/IROS60139.2025.11246287
+UT WOS:001734989200386
+DA 2026-08-05
+ER
+
+PT C
+AU Lampe, T
+   Riedmiller, M
+AF Lampe, Thomas
+   Riedmiller, Martin
+TI Acquiring Visual Servoing Reaching and Grasping Skills using Neural
+   Reinforcement Learning
+SO 2013 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN)
+SE IEEE International Joint Conference on Neural Networks (IJCNN)
+LA English
+DT Proceedings Paper
+CT International Joint Conference on Neural Networks (IJCNN)
+CY AUG 04-09, 2013
+CL Dallas, TX
+PU IEEE
+SN 2161-4393
+BN 978-1-4673-6129-3; 978-1-4673-6128-6
+PY 2013
+UT WOS:000349557200346
+DA 2026-08-05
+ER
+
+PT J
+AU Song, SR
+   Zeng, AD
+   Lee, J
+   Funkhouser, T
+AF Song, Shuran
+   Zeng, Andy
+   Lee, Johnny
+   Funkhouser, Thomas
+TI Grasping in the Wild: Learning 6DoF Closed-Loop Grasping From Low-Cost
+   Demonstrations
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD JUL
+PY 2020
+VL 5
+IS 3
+BP 4978
+EP 4985
+DI 10.1109/LRA.2020.3004787
+UT WOS:000546883300011
+DA 2026-08-05
+ER
+
+PT C
+AU Balaguer, B
+   Carpin, S
+AF Balaguer, Benjamin
+   Carpin, Stefano
+TI Combining Imitation and Reinforcement Learning to Fold Deformable Planar
+   Objects
+SO 2011 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+CY SEP 25-30, 2011
+CL San Francisco, CA
+PU IEEE
+SN 2153-0858
+BN 978-1-61284-455-8
+PY 2011
+BP 1405
+EP 1412
+UT WOS:000297477501115
+DA 2026-08-05
+ER
+
+PT C
+AU Wu, P
+   Shentu, Y
+   Yi, ZK
+   Lin, XY
+   Abbeel, P
+AF Wu, Philipp
+   Shentu, Yide
+   Yi, Zhongke
+   Lin, Xingyu
+   Abbeel, Pieter
+TI GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for
+   Robot Manipulators
+SO 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS 2024)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2024 International Conference on Intelligent Robots and Systems
+CY OCT 14-18, 2024
+CL Abu Dhabi, U ARAB EMIRATES
+PU IEEE
+SN 2153-0858
+BN 979-8-3503-7771-2; 979-8-3503-7770-5
+PY 2024
+BP 12156
+EP 12163
+DI 10.1109/IROS58592.2024.10801581
+UT WOS:001433985300599
+DA 2026-08-05
+ER
+
+PT J
+AU Chen, C
+   Yu, ZC
+   Choi, H
+   Cutkosky, M
+   Bohg, J
+AF Chen, Claire
+   Yu, Zhongchun
+   Choi, Hojung
+   Cutkosky, Mark
+   Bohg, Jeannette
+TI DexForce: Extracting Force-Informed Actions From Kinesthetic
+   Demonstrations for Dexterous Manipulation
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD JUN
+PY 2025
+VL 10
+IS 6
+BP 6416
+EP 6423
+DI 10.1109/LRA.2025.3568318
+UT WOS:001492104500008
+DA 2026-08-05
+ER
+
+PT C
+AU Romero, B
+   Fang, HS
+   Agrawal, P
+   Adelson, E
+AF Romero, Branden
+   Fang, Hao-Shu
+   Agrawal, Pulkit
+   Adelson, Edward
+TI EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with
+   Integrated Vision-Based Tactile Sensors and Compliant Actuation
+SO 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND
+   SYSTEMS, IROS 2024
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2024 International Conference on Intelligent Robots and Systems
+CY OCT 14-18, 2024
+CL Abu Dhabi, U ARAB EMIRATES
+PU IEEE
+SN 2153-0858
+BN 979-8-3503-7771-2; 979-8-3503-7770-5
+PY 2024
+BP 1853
+EP 1860
+DI 10.1109/IROS58592.2024.10802778
+UT WOS:001411890000206
+DA 2026-08-05
+ER
+
+PT C
+AU Lin, YH
+   Wei, YL
+   Liao, HR
+   Lin, M
+   Xing, CY
+   Li, H
+   Zhang, DD
+   Cutkosky, M
+   Zheng, WS
+AF Lin, Yuhao
+   Wei, Yi-Lin
+   Liao, Haoran
+   Lin, Mu
+   Xing, Chengyi
+   Li, Hao
+   Zhang, Dandan
+   Cutkosky, Mark
+   Zheng, Wei-Shi
+TI TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation
+   Types
+SO CONFERENCE ON ROBOT LEARNING
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 9th Conference on Robot Learning-CORL-Annual
+CY SEP 27-30, 2025
+CL SOUTH KOREA
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2025
+VL 305
+BP 4975
+EP 4993
+UT WOS:001676333500238
+DA 2026-08-05
+ER
+
+PT J
+AU Hou, ZM
+   Yang, WH
+   Chen, R
+   Feng, PF
+   Xu, J
+AF Hou, Zhimin
+   Yang, Wenhao
+   Chen, Rui
+   Feng, Pingfa
+   Xu, Jing
+TI A Hierarchical Compliance-Based Contextual Policy Search for Robotic
+   Manipulation Tasks With Multiple Objectives
+SO IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1551-3203
+EI 1941-0050
+PD APR
+PY 2023
+VL 19
+IS 4
+BP 5444
+EP 5455
+DI 10.1109/TII.2022.3192435
+UT WOS:000967165300001
+DA 2026-08-05
+ER
+
+PT J
+AU Yin, ZK
+   Ye, C
+   An, H
+   Lin, WY
+   Wang, ZF
+AF Yin, Zikang
+   Ye, Chao
+   An, Hao
+   Lin, Weiyang
+   Wang, Zhifeng
+TI Robot Manipulation Skills Transfer for Sim-to-Real in Unstructured
+   Environments
+SO ELECTRONICS
+LA English
+DT Article
+PU MDPI
+SN 2079-9292
+PD JAN
+PY 2023
+VL 12
+IS 2
+AR 411
+DI 10.3390/electronics12020411
+UT WOS:000914408800001
+DA 2026-08-05
+ER
+
+PT C
+AU Kalakrishnan, M
+   Righetti, L
+   Pastor, P
+   Schaal, S
+AF Kalakrishnan, Mrinal
+   Righetti, Ludovic
+   Pastor, Peter
+   Schaal, Stefan
+TI Learning Force Control Policies for Compliant Manipulation
+SO 2011 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+CY SEP 25-30, 2011
+CL San Francisco, CA
+PU IEEE
+SN 2153-0858
+BN 978-1-61284-455-8
+PY 2011
+BP 4639
+EP 4644
+UT WOS:000297477504149
+DA 2026-08-05
+ER
+
+PT J
+AU Zhao, T
+   Deng, MD
+   Li, ZJ
+   Hu, YB
+AF Zhao, Ting
+   Deng, Mingdi
+   Li, Zhijun
+   Hu, Yingbai
+TI Cooperative Manipulation for a Mobile Dual-Arm Robot Using Sequences of
+   Dynamic Movement Primitives
+SO IEEE TRANSACTIONS ON COGNITIVE AND DEVELOPMENTAL SYSTEMS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2379-8920
+EI 2379-8939
+PD MAR
+PY 2020
+VL 12
+IS 1
+BP 18
+EP 29
+DI 10.1109/TCDS.2018.2868921
+UT WOS:000521175700003
+DA 2026-08-05
+ER
+
+PT C
+AU Tommy, R
+   Krishnan, RA
+AF Tommy, Robin
+   Krishnan, Athira R.
+TI Self-Supervised Learning of Robot Manipulation
+SO 2020 4TH INTERNATIONAL CONFERENCE ON AUTOMATION, CONTROL AND ROBOTS
+   (ICACR 2020)
+LA English
+DT Proceedings Paper
+CT 4th International Conference on Automation, Control and Robots (ICACR)
+CY OCT 11-13, 2020
+CL Rome, ITALY
+PU IEEE
+BN 978-1-7281-9207-9
+PY 2020
+BP 22
+EP 25
+DI 10.1109/icacr51161.2020.9265507
+UT WOS:000651326000004
+DA 2026-08-05
+ER
+
+PT C
+AU Yao, Q
+   Wang, JL
+   Yang, SY
+   Wang, C
+   Meng, LH
+   Zhang, QF
+   Wang, DL
+AF Yao, Qingfeng
+   Wang, Jilong
+   Yang, Shuyu
+   Wang, Cong
+   Meng, Linghan
+   Zhang, Qifeng
+   Wang, Donglin
+TI A Transferable Legged Mobile Manipulation Framework Based on Disturbance
+   Predictive Control
+SO 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND BIOMIMETICS, ROBIO
+LA English
+DT Proceedings Paper
+CT 2022 International Conference on Robotics and Biomimetics-ROBIO
+CY DEC 05-09, 2022
+CL Xishuangbanna, PEOPLES R CHINA
+PU IEEE
+BN 978-1-6654-8109-0
+PY 2022
+BP 2093
+EP 2097
+DI 10.1109/ROBIO55434.2022.10011816
+UT WOS:001507554400341
+DA 2026-08-05
+ER
+
+PT J
+AU Sheng, WH
+   Thobbi, A
+   Gu, Y
+AF Sheng, Weihua
+   Thobbi, Anand
+   Gu, Ye
+TI An Integrated Framework for Human-Robot Collaborative Manipulation
+SO IEEE TRANSACTIONS ON CYBERNETICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2168-2267
+EI 2168-2275
+PD OCT
+PY 2015
+VL 45
+IS 10
+BP 2030
+EP 2041
+DI 10.1109/TCYB.2014.2363664
+UT WOS:000361751900001
+DA 2026-08-05
+ER
+
+PT C
+AU Silva, R
+   Faria, M
+   Melo, FS
+   Veloso, M
+AF Silva, Rui
+   Faria, Miguel
+   Melo, Francisco S.
+   Veloso, Manuela
+TI Adaptive Indirect Control through Communication in Collaborative
+   Human-Robot Interaction
+SO 2017 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS) / Workshop on Machine Learning Methods for High-Level Cognitive
+   Capabilities in Robotics
+CY SEP 24-28, 2017
+CL Vancouver, CANADA
+PU IEEE
+SN 2153-0858
+BN 978-1-5386-2682-5
+PY 2017
+BP 3617
+EP 3622
+UT WOS:000426978203089
+DA 2026-08-05
+ER
+
+PT C
+AU Sekiguchi, T
+   Kobayashi, Y
+   Shimizu, A
+   Kaneko, T
+AF Sekiguchi, Takuo
+   Kobayashi, Yuichi
+   Shimizu, Akinobu
+   Kaneko, Toru
+TI Online learning of optimal robot behavior for object manipulation using
+   mode switching
+SO 2012 IEEE INTERNATIONAL SYMPOSIUM ON ROBOTIC AND SENSORS ENVIRONMENTS
+   (ROSE 2012)
+LA English
+DT Proceedings Paper
+CT 10th IEEE International Symposium on Robotic and Sensors Environments
+   (ROSE)
+CY NOV 16-18, 2012
+CL Otto von Guericke Univ, Magdeburg, GERMANY
+PU IEEE
+BN 978-1-4673-2704-6
+PY 2012
+BP 61
+EP 66
+UT WOS:000335755600010
+DA 2026-08-05
+ER
+
+PT C
+AU Xu, WJ
+   Wei, JF
+   Yang, RY
+   Zhang, AD
+AF Xu, Wenjun
+   Wei, Jianfeng
+   Yang, Renyou
+   Zhang, Aidong
+TI Eye Gaze Map as an Efficient State Encoder for Underwater Task
+   Automation
+SO GLOBAL OCEANS 2020: SINGAPORE - U.S. GULF COAST
+SE OCEANS-IEEE
+LA English
+DT Proceedings Paper
+CT Global OCEANS Singapore - U.S. Gulf Coast Conference
+CY OCT 05-30, 2020
+CL ELECTR NETWORK
+PU IEEE
+SN 0197-7385
+BN 978-1-7281-5446-6
+PY 2020
+DI 10.1109/IEEECONF38699.2020.9389330
+UT WOS:000669813302030
+DA 2026-08-05
+ER
+
+PT C
+AU Pervez, A
+   Ali, A
+   Ryu, JH
+   Lee, D
+AF Pervez, Affan
+   Ali, Arslan
+   Ryu, Jee-Hwan
+   Lee, Dongheui
+TI Novel Learning From Demonstration Approach for Repetitive Teleoperation
+   Tasks
+SO 2017 IEEE WORLD HAPTICS CONFERENCE (WHC)
+LA English
+DT Proceedings Paper
+CT IEEE World Haptics Conference (WHC)
+CY MAR 25-28, 2018
+CL San francisco, CA
+PU IEEE
+BN 978-1-5090-1425-5
+PY 2017
+BP 60
+EP 65
+UT WOS:000426705900011
+DA 2026-08-05
+ER
+
+PT C
+AU Christoph, CC
+   Eberlein, M
+   Katsimalis, F
+   Roberti, A
+   Sympetheros, A
+   Vogt, MR
+   Liconti, D
+   Yang, CY
+   Cangan, BG
+   Hinchet, RJ
+   Katzschmann, RK
+AF Christoph, Clemens C.
+   Eberlein, Maximilian
+   Katsimalis, Filippos
+   Roberti, Arturo
+   Sympetheros, Aristotelis
+   Vogt, Michel R.
+   Liconti, Davide
+   Yang, Chenyu
+   Cangan, Barnabas Gavin
+   Hinchet, Ronan J.
+   Katzschmann, Robert K.
+TI ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic
+   Hand for Uninterrupted Dexterous Task Learning
+SO 2025 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2025 International Conference on Intelligent Robots and Systems-IROS
+CY OCT 19-25, 2025
+CL Hangzhou, PEOPLES R CHINA
+PU IEEE
+SN 2153-0858
+BN 979-8-3315-4394-5; 979-8-3315-4393-8
+PY 2025
+BP 8503
+EP 8510
+DI 10.1109/IROS60139.2025.11246681
+UT WOS:001734964700148
+DA 2026-08-05
+ER
+
+PT J
+AU Si, WY
+   Wang, N
+   Yang, CG
+AF Si, Weiyong
+   Wang, Ning
+   Yang, Chenguang
+TI A review on manipulation skill acquisition through teleoperation-based
+   learning from demonstration
+SO COGNITIVE COMPUTATION AND SYSTEMS
+LA English
+DT Review
+PU WILEY
+EI 2517-7567
+PD MAR
+PY 2021
+VL 3
+IS 1
+BP 1
+EP 16
+DI 10.1049/ccs2.12005
+UT WOS:001062676000001
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, ZZ
+   Xiao, XS
+   Warnell, G
+   Stone, P
+AF Wang, Zizhao
+   Xiao, Xuesu
+   Warnell, Garrett
+   Stone, Peter
+TI APPLE: Adaptive Planner Parameter Learning From Evaluative Feedback
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD OCT
+PY 2021
+VL 6
+IS 4
+BP 7744
+EP 7749
+DI 10.1109/LRA.2021.3100940
+UT WOS:000686762900002
+DA 2026-08-05
+ER
+
+PT J
+AU Islam, MS
+   Najdovski, Z
+   Hosen, MA
+   Huynh, VT
+AF Islam, Md Shofiqul
+   Najdovski, Zoran
+   Hosen, Mohammad Anwar
+   Huynh, Van Thanh
+TI An in-depth review of dual-arm robot learning methods with advances and
+   challenges in variable compliance-aware control for uncertain tasks
+SO ANNUAL REVIEWS IN CONTROL
+LA English
+DT Review
+PU PERGAMON-ELSEVIER SCIENCE LTD
+SN 1367-5788
+EI 1872-9088
+PY 2026
+VL 61
+AR 101050
+DI 10.1016/j.arcontrol.2026.101050
+UT WOS:001676960700001
+DA 2026-08-05
+ER
+
+PT C
+AU Luo, SC
+   Peng, QQ
+   Lv, J
+   Hong, KW
+   Driggs-Campbell, KR
+   Lu, CW
+   Li, YL
+AF Luo, Shengcheng
+   Peng, Quanquan
+   Lv, Jun
+   Hong, Kaiwen
+   Driggs-Campbell, Katherine Rose
+   Lu, Cewu
+   Li, Yong-Lu
+TI Human-Agent Joint Learning for Efficient Robot Manipulation Skill
+   Acquisition
+SO 2025 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA
+LA English
+DT Proceedings Paper
+CT 2025 International Conference on Robotics and Automation-ICRA-Annual
+CY MAY 19-23, 2025
+CL Atlanta, GA
+PU IEEE
+BN 979-8-3315-4140-8; 979-8-3315-4139-2
+PY 2025
+BP 1370
+EP 1377
+DI 10.1109/ICRA55743.2025.11127637
+UT WOS:001582497400126
+DA 2026-08-05
+ER
+
+PT C
+AU Huang, I
+   Bajcsy, R
+AF Huang, Isabella
+   Bajcsy, Ruzena
+TI Robot Learning from Demonstration with Tactile Signals for
+   Geometry-Dependent Tasks
+SO 2020 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS)
+CY OCT 24-JAN 24, 2020-2021
+CL ELECTR NETWORK
+PU IEEE
+SN 2153-0858
+BN 978-1-7281-6212-6
+PY 2020
+BP 8323
+EP 8328
+DI 10.1109/IROS45743.2020.9340818
+UT WOS:000724145802080
+DA 2026-08-05
+ER
+
+PT C
+AU Kamijo, T
+   Beltran-Hernandez, CC
+   Hamaya, M
+AF Kamijo, Tatsuya
+   Beltran-Hernandez, Cristian C.
+   Hamaya, Masashi
+TI Learning Variable Compliance Control From a Few Demonstrations for
+   Bimanual Robot with Haptic Feedback Teleoperation System
+SO 2024 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS 2024)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT 2024 International Conference on Intelligent Robots and Systems
+CY OCT 14-18, 2024
+CL Abu Dhabi, U ARAB EMIRATES
+PU IEEE
+SN 2153-0858
+BN 979-8-3503-7771-2; 979-8-3503-7770-5
+PY 2024
+BP 12663
+EP 12670
+DI 10.1109/IROS58592.2024.10801731
+UT WOS:001433985300668
+DA 2026-08-05
+ER
+
+PT J
+AU Michel, Y
+   Li, ZD
+   Lee, DH
+AF Michel, Youssef
+   Li, Zhendong
+   Lee, Dongheui
+TI A Learning-Based Shared Control Approach for Contact Tasks
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD DEC
+PY 2023
+VL 8
+IS 12
+BP 8002
+EP 8009
+DI 10.1109/LRA.2023.3322332
+UT WOS:001123433700001
+DA 2026-08-05
+ER
+
+PT J
+AU Shi, DH
+   Li, QC
+   Yang, CG
+   Lu, ZY
+AF Shi, Donghao
+   Li, Qinchuan
+   Yang, Chenguang
+   Lu, Zhenyu
+TI A constrained framework based on IBLF for robot learning with human
+   supervision
+SO ROBOTICA
+LA English
+DT Article
+PU CAMBRIDGE UNIV PRESS
+SN 0263-5747
+EI 1469-8668
+PD AUG
+PY 2023
+VL 41
+IS 8
+BP 2451
+EP 2463
+AR PII S0263574723000462
+DI 10.1017/S0263574723000462
+UT WOS:000974761400001
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, SJ
+   Hu, WB
+   Sun, LN
+   Wang, X
+   Li, ZB
+AF Wang, Shuaijun
+   Hu, Wenbin
+   Sun, Lining
+   Wang, Xin
+   Li, Zhibin
+TI Learning Adaptive Grasping From Human Demonstrations
+SO IEEE-ASME TRANSACTIONS ON MECHATRONICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1083-4435
+EI 1941-014X
+PD OCT
+PY 2022
+VL 27
+IS 5
+BP 3865
+EP 3873
+DI 10.1109/TMECH.2021.3132465
+UT WOS:000757942300001
+DA 2026-08-05
+ER
+
+PT C
+AU Xu, MD
+   Zhang, H
+   Hou, YF
+   Xu, ZJ
+   Fan, LX
+   Veloso, M
+   Song, SR
+AF Xu, Mengda
+   Zhang, Han
+   Hou, Yifan
+   Xu, Zhenjia
+   Fan, Linxi
+   Veloso, Manuela
+   Song, Shuran
+TI DexUMI: Using Human Hand as the Universal Manipulation Interface for
+   Dexterous Manipulation
+SO CONFERENCE ON ROBOT LEARNING
+SE Proceedings of Machine Learning Research
+LA English
+DT Proceedings Paper
+CT 9th Conference on Robot Learning-CORL-Annual
+CY SEP 27-30, 2025
+CL SOUTH KOREA
+PU JMLR-JOURNAL MACHINE LEARNING RESEARCH
+SN 2640-3498
+PY 2025
+VL 305
+BP 437
+EP 459
+UT WOS:001676333500021
+DA 2026-08-05
+ER
+
+PT J
+AU Liu, X
+   Huang, PF
+   Liu, ZX
+AF Liu, Xing
+   Huang, Panfeng
+   Liu, Zhengxiong
+TI A Novel Contact State Estimation Method for Robot Manipulation Skill
+   Learning via Environment Dynamics and Constraints Modeling
+SO IEEE TRANSACTIONS ON AUTOMATION SCIENCE AND ENGINEERING
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 1545-5955
+EI 1558-3783
+PD OCT
+PY 2022
+VL 19
+IS 4
+BP 3903
+EP 3913
+DI 10.1109/TASE.2021.3139096
+UT WOS:000745429200001
+DA 2026-08-05
+ER
+
+PT J
+AU Uthai, T
+   You, HX
+   Wang, MJ
+   Smith, K
+   Spackman, E
+   Ryan, Z
+   Li, S
+   Du, J
+AF Uthai, Thanakon
+   You, Hengxu
+   Wang, Mengjun
+   Smith, Kaleb
+   Spackman, Everett
+   Ryan, Zoe
+   Li, Shuai
+   Du, Jing
+TI Opportunities challenges and roadmap for humanoid robots in construction
+SO SCIENTIFIC REPORTS
+LA English
+DT Article
+PU NATURE PORTFOLIO
+SN 2045-2322
+PD DEC 3
+PY 2025
+VL 16
+IS 1
+AR 905
+DI 10.1038/s41598-025-30252-6
+UT WOS:001658414700002
+DA 2026-08-05
+ER
+
+PT J
+AU Lu, ZY
+   Wang, N
+   Shi, DH
+AF Lu, Zhenyu
+   Wang, Ning
+   Shi, Donghao
+TI DMPs-based skill learning for redundant dual-arm robotic synchronized
+   cooperative manipulation
+SO COMPLEX & INTELLIGENT SYSTEMS
+LA English
+DT Article
+PU SPRINGER HEIDELBERG
+SN 2199-4536
+EI 2198-6053
+PD AUG
+PY 2022
+VL 8
+IS 4
+BP 2873
+EP 2882
+DI 10.1007/s40747-021-00429-3
+UT WOS:000662814700004
+DA 2026-08-05
+ER
+
+PT C
+AU Zeng, C
+   Li, S
+   Jiang, YM
+   Li, Q
+   Chen, ZP
+   Yang, CG
+   Zhang, JW
+AF Zeng, Chao
+   Li, Shuang
+   Jiang, Yiming
+   Li, Qiang
+   Chen, Zhaopeng
+   Yang, Chenguang
+   Zhang, Jianwei
+TI Learning compliant grasping and manipulation by teleoperation with
+   adaptive force control
+SO 2021 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS)
+CY SEP 27-OCT 01, 2021
+CL ELECTR NETWORK
+PU IEEE
+SN 2153-0858
+BN 978-1-6654-1714-3
+PY 2021
+BP 717
+EP 724
+DI 10.1109/IROS51168.2021.9636832
+UT WOS:000755125500072
+DA 2026-08-05
+ER
+
+PT C
+AU Si, WY
+   Yue, TQ
+   Guan, Y
+   Wang, N
+   Yang, CG
+AF Si, Weiyong
+   Yue, Tianqi
+   Guan, Yuan
+   Wang, Ning
+   Yang, Chenguang
+TI A Novel Robot Skill Learning Framework Based on Bilateral Teleoperation
+SO 2022 IEEE 18TH INTERNATIONAL CONFERENCE ON AUTOMATION SCIENCE AND
+   ENGINEERING (CASE)
+SE IEEE International Conference on Automation Science and Engineering
+LA English
+DT Proceedings Paper
+CT IEEE 18th International Conference on Automation Science and Engineering
+   (IEEE CASE)
+CY AUG 20-24, 2022
+CL Mexico City, MEXICO
+PU IEEE
+SN 2161-8070
+BN 978-1-6654-9042-9
+PY 2022
+BP 758
+EP 763
+DI 10.1109/CASE49997.2022.9926526
+UT WOS:000927622400084
+DA 2026-08-05
+ER
+
+PT C
+AU Lee, JK
+   Ryu, JH
+AF Lee, Joong-Ku
+   Ryu, Jee-Hwan
+TI Learning Robotic Rotational Manipulation Skill from Bilateral
+   Teleoperation
+SO 2022 19TH INTERNATIONAL CONFERENCE ON UBIQUITOUS ROBOTS (UR)
+LA English
+DT Proceedings Paper
+CT 19th International Conference on Ubiquitous Robots (UR)
+CY JUL 04-06, 2022
+CL Jeju, SOUTH KOREA
+PU IEEE
+BN 978-1-6654-8253-0
+PY 2022
+BP 318
+EP 325
+DI 10.1109/UR55393.2022.9826276
+UT WOS:000922068300053
+DA 2026-08-05
+ER
+
+PT C
+AU Ruppel, P
+   Zhang, JW
+AF Ruppel, Philipp
+   Zhang, Jianwei
+TI Learning Object Manipulation with Dexterous Hand-Arm Systems from Human
+   Demonstration
+SO 2020 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS)
+CY OCT 24-JAN 24, 2020-2021
+CL ELECTR NETWORK
+PU IEEE
+SN 2153-0858
+BN 978-1-7281-6212-6
+PY 2020
+BP 5417
+EP 5424
+DI 10.1109/IROS45743.2020.9340966
+UT WOS:000714033803029
+DA 2026-08-05
+ER
+
+PT C
+AU Shao, L
+   Migimatsu, T
+   Bohg, J
+AF Shao, Lin
+   Migimatsu, Toki
+   Bohg, Jeannette
+TI Learning to Scaffold the Development of Robotic Manipulation Skills
+SO 2020 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 31-JUN 15, 2020
+CL ELECTR NETWORK
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-7281-7395-5
+PY 2020
+BP 5671
+EP 5677
+DI 10.1109/icra40945.2020.9197134
+UT WOS:000712319503133
+DA 2026-08-05
+ER
+
+PT J
+AU Zeng, C
+   Li, S
+   Chen, ZP
+   Yang, CG
+   Sun, FC
+   Zhang, JW
+AF Zeng, Chao
+   Li, Shuang
+   Chen, Zhaopeng
+   Yang, Chenguang
+   Sun, Fuchun
+   Zhang, Jianwei
+TI Multifingered Robot Hand Compliant Manipulation Based on Vision-Based
+   Demonstration and Adaptive Force Control
+SO IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2162-237X
+EI 2162-2388
+PD SEP
+PY 2023
+VL 34
+IS 9
+BP 5452
+EP 5463
+DI 10.1109/TNNLS.2022.3184258
+UT WOS:000824759200001
+DA 2026-08-05
+ER
+
+PT J
+AU Takahashi, K
+   Ogata, T
+   Nakanishi, J
+   Cheng, G
+   Sugano, S
+AF Takahashi, Kuniyuki
+   Ogata, Tetsuya
+   Nakanishi, Jun
+   Cheng, Gordon
+   Sugano, Shigeki
+TI Dynamic motion learning for multi-DOF flexible-joint robots using
+   active-passive motor babbling through deep learning
+SO ADVANCED ROBOTICS
+LA English
+DT Article
+PU TAYLOR & FRANCIS LTD
+SN 0169-1864
+EI 1568-5535
+PY 2017
+VL 31
+IS 18
+BP 1002
+EP 1015
+DI 10.1080/01691864.2017.1383939
+UT WOS:000416541600004
+DA 2026-08-05
+ER
+
+PT C
+AU Deng, Z
+   Mi, JP
+   Chen, ZX
+   Einig, L
+   Zou, C
+   Zhang, JW
+AF Deng, Zhen
+   Mi, Jinpeng
+   Chen, Zhixian
+   Einig, Lasse
+   Zou, Cheng
+   Zhang, Jianwei
+TI Learning Human Compliant Behavior from Demonstration for Force-based
+   Robot Manipulation
+SO 2016 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND BIOMIMETICS (ROBIO)
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Biomimetics (IEEE ROBIO)
+CY DEC 03-07, 2016
+CL Qingdao, PEOPLES R CHINA
+PU IEEE
+BN 978-1-5090-4364-4
+PY 2016
+BP 319
+EP 324
+UT WOS:000405724600055
+DA 2026-08-05
+ER
+
+PT C
+AU Yang, W
+   Sundaralingam, B
+   Paxton, C
+   Akinola, I
+   Chao, YW
+   Cakmak, M
+   Fox, D
+AF Yang, Wei
+   Sundaralingam, Balakumar
+   Paxton, Chris
+   Akinola, Iretiayo
+   Chao, Yu-Wei
+   Cakmak, Maya
+   Fox, Dieter
+TI Model Predictive Control for Fluid Human-to-Robot Handovers
+SO 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION, ICRA 2022
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 23-27, 2022
+CL Philadelphia, PA
+PU IEEE
+SN 1050-4729
+EI 2577-087X
+BN 978-1-7281-9681-7
+PY 2022
+BP 6956
+EP 6962
+DI 10.1109/ICRA46639.2022.9812109
+UT WOS:000941277600077
+DA 2026-08-05
+ER
+
+PT C
+AU Liu, JJ
+   Li, ZH
+   Lin, WY
+   Calinon, S
+   Tan, KC
+   Chen, F
+AF Liu, Junjia
+   Li, Zhihao
+   Lin, Wanyu
+   Calinon, Sylvain
+   Tan, Kay Chen
+   Chen, Fei
+TI SoftGPT: Learn Goal-oriented Soft Object Manipulation Skills by
+   Generative Pre-trained Heterogeneous Graph Transformer
+SO 2023 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND
+   SYSTEMS, IROS
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS)
+CY OCT 01-05, 2023
+CL Detroit, MI
+PU IEEE
+SN 2153-0858
+BN 978-1-6654-9190-7
+PY 2023
+BP 4920
+EP 4925
+DI 10.1109/IROS55552.2023.10341846
+UT WOS:001133658803111
+DA 2026-08-05
+ER
+
+PT C
+AU Zhao, LD
+   Zhao, Y
+   Patil, S
+   Davies, D
+   Wang, C
+   Lu, L
+   Ouyang, B
+AF Zhao, Leidi
+   Zhao, Yiwen
+   Patil, Siddharth
+   Davies, Dylan
+   Wang, Cong
+   Lu, Lu
+   Ouyang, Bo
+TI Robot Composite Learning and the Nunchaku Flipping Challenge
+SO 2018 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA)
+SE IEEE International Conference on Robotics and Automation ICRA
+LA English
+DT Proceedings Paper
+CT IEEE International Conference on Robotics and Automation (ICRA)
+CY MAY 21-25, 2018
+CL Brisbane, AUSTRALIA
+PU IEEE COMPUTER SOC
+SN 1050-4729
+BN 978-1-5386-3081-5
+PY 2018
+BP 3160
+EP 3165
+UT WOS:000446394502064
+DA 2026-08-05
+ER
+
+PT C
+AU Tsitos, AC
+   Dagioglou, M
+AF Tsitos, Athanasios C.
+   Dagioglou, Maria
+TI Handling Vision Noise Through Robot Motion Control in a Real-Time
+   Teleoperation System
+SO 2022 30TH MEDITERRANEAN CONFERENCE ON CONTROL AND AUTOMATION (MED)
+SE Mediterranean Conference on Control and Automation
+LA English
+DT Proceedings Paper
+CT 30th Mediterranean Conference on Control and Automation (MED)
+CY JUN 28-JUL 01, 2022
+CL Athens, GREECE
+PU IEEE
+SN 2325-369X
+BN 978-1-6654-0673-4
+PY 2022
+BP 624
+EP 629
+DI 10.1109/MED54222.2022.9837150
+UT WOS:000854013700102
+DA 2026-08-05
+ER
+
+PT J
+AU Pervez, A
+   Latifee, H
+   Ryu, JH
+   Lee, D
+AF Pervez, Affan
+   Latifee, Hiba
+   Ryu, Jee-Hwan
+   Lee, Dongheui
+TI Motion encoding with asynchronous trajectories of repetitive
+   teleoperation tasks and its extension to human-agent shared
+   teleoperation
+SO AUTONOMOUS ROBOTS
+LA English
+DT Article
+PU SPRINGER
+SN 0929-5593
+EI 1573-7527
+PD DEC
+PY 2019
+VL 43
+IS 8
+BP 2055
+EP 2069
+DI 10.1007/s10514-019-09853-4
+UT WOS:000487951900008
+DA 2026-08-05
+ER
+
+PT C
+AU Oh, Y
+   Schäfer, T
+   Rüther, B
+   Toussaint, M
+   Mainprice, J
+AF Oh, Yoojin
+   Schaefer, Tim
+   Ruether, Benedikt
+   Toussaint, Marc
+   Mainprice, Jim
+TI A System for Traded Control Teleoperation of Manipulation Tasks using
+   Intent Prediction from Hand Gestures
+SO 2021 30TH IEEE INTERNATIONAL CONFERENCE ON ROBOT AND HUMAN INTERACTIVE
+   COMMUNICATION (RO-MAN)
+SE IEEE RO-MAN
+LA English
+DT Proceedings Paper
+CT 30th IEEE International Conference on Robot and Human Interactive
+   Communication (RO-MAN)
+CY AUG 08-12, 2021
+CL ELECTR NETWORK
+PU IEEE
+SN 1944-9445
+BN 978-1-6654-0492-1
+PY 2021
+BP 503
+EP 508
+DI 10.1109/RO-MAN50785.2021.9515440
+UT WOS:000709817200072
+DA 2026-08-05
+ER
+
+PT C
+AU Liu, NJ
+   Lu, T
+   Cai, YH
+   Lu, JY
+   Gao, HX
+   Li, BY
+   Wang, S
+AF Liu, Naijun
+   Lu, Tao
+   Cai, Yinghao
+   Lu, Jinyan
+   Gao, Huaixu
+   Li, Boyao
+   Wang, Shuo
+TI Design of Virtual Reality Teleoperation System for Robot Complex
+   Manipulation
+SO 2019 CHINESE AUTOMATION CONGRESS (CAC2019)
+SE Chinese Automation Congress
+LA English
+DT Proceedings Paper
+CT Chinese Automation Congress (CAC)
+CY NOV 22-24, 2019
+CL Hangzhou, PEOPLES R CHINA
+PU IEEE
+SN 2688-092X
+EI 2688-0938
+BN 978-1-7281-4094-0
+PY 2019
+BP 1789
+EP 1793
+DI 10.1109/cac48633.2019.8997211
+UT WOS:000679040101150
+DA 2026-08-05
+ER
+
+PT J
+AU Liu, SC
+   Zhang, JJ
+   Wang, LH
+   Gao, RX
+AF Liu, Sichao
+   Zhang, Jianjing
+   Wang, Lihui
+   Gao, Robert X.
+TI Vision AI-based human-robot collaborative assembly driven by autonomous
+   robots
+SO CIRP ANNALS-MANUFACTURING TECHNOLOGY
+LA English
+DT Article
+PU ELSEVIER
+SN 0007-8506
+EI 1726-0604
+PY 2024
+VL 73
+IS 1
+BP 13
+EP 16
+DI 10.1016/j.cirp.2024.03.004
+UT WOS:001279540100001
+DA 2026-08-05
+ER
+
+PT C
+AU Fei, HL
+   Lee, SJ
+   Wang, ZW
+   Guo, LC
+   Williams, D
+   Tedeschi, S
+   Wang, XQ
+AF Fei, Haolin
+   Lee, Shijie
+   Wang, Ziwei
+   Guo, Liucheng
+   Williams, Darren
+   Tedeschi, Stefano
+   Wang, Xueqian
+TI Seamless Robot Teleoperation: Intuitive Control through Hand Gestures
+   and Neural Network Decoding
+SO 2024 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS, IJCNN 2024
+SE IEEE International Joint Conference on Neural Networks (IJCNN)
+LA English
+DT Proceedings Paper
+CT International Joint Conference on Neural Networks (IJCNN)
+CY JUN 30-JUL 05, 2024
+CL Yokohama, JAPAN
+PU IEEE
+SN 2161-4393
+BN 979-8-3503-5932-9; 979-8-3503-5931-2
+PY 2024
+DI 10.1109/IJCNN60899.2024.10649908
+UT WOS:001315691500010
+DA 2026-08-05
+ER
+
+PT J
+AU Wang, SY
+   Ramos, J
+AF Wang, Sunyu
+   Ramos, Joao
+TI Dynamic Locomotion Teleoperation of a Reduced Model of a Wheeled
+   Humanoid Robot Using a Whole-Body Human-Machine Interface
+SO IEEE ROBOTICS AND AUTOMATION LETTERS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 2377-3766
+PD APR
+PY 2022
+VL 7
+IS 2
+BP 1872
+EP 1879
+DI 10.1109/LRA.2021.3138521
+UT WOS:000745524600017
+DA 2026-08-05
+ER
+
+PT J
+AU Hou, XL
+AF Hou, Xiaolei
+TI Haptic teleoperation of a multirotor aerial robot using path planning
+   with human intention estimation
+SO INTELLIGENT SERVICE ROBOTICS
+LA English
+DT Article
+PU SPRINGER HEIDELBERG
+SN 1861-2776
+EI 1861-2784
+PD MAR
+PY 2021
+VL 14
+IS 1
+BP 33
+EP 46
+DI 10.1007/s11370-020-00339-2
+UT WOS:000590539900001
+DA 2026-08-05
+ER
+
+PT C
+AU Birkenkampf, P
+   Leidner, D
+   Borst, C
+AF Birkenkampf, Peter
+   Leidner, Daniel
+   Borst, Christoph
+TI A Knowledge-Driven Shared Autonomy Human- Robot Interface for Tablet
+   Computers
+SO 2014 14TH IEEE-RAS INTERNATIONAL CONFERENCE ON HUMANOID ROBOTS
+   (HUMANOIDS)
+SE IEEE-RAS International Conference on Humanoid Robots
+LA English
+DT Proceedings Paper
+CT 14th IEEE-RAS International Conference on Humanoid Robots (Humanoids)
+CY NOV 18-20, 2014
+CL Madrid, SPAIN
+PU IEEE
+SN 2164-0572
+BN 978-1-4799-7174-9
+PY 2014
+BP 152
+EP 159
+UT WOS:000392843800025
+DA 2026-08-05
+ER
+
+PT C
+AU Ramos, J
+   Wang, A
+   Kim, S
+AF Ramos, Joao
+   Wang, Albert
+   Kim, Sangbae
+TI A Balance Feedback Human Machine Interface for Humanoid Teleoperation in
+   Dynamic Tasks
+SO 2015 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+   (IROS)
+SE IEEE International Conference on Intelligent Robots and Systems
+LA English
+DT Proceedings Paper
+CT IEEE/RSJ International Conference on Intelligent Robots and Systems
+   (IROS)
+CY SEP 28-OCT 02, 2015
+CL Hamburg, GERMANY
+PU IEEE
+SN 2153-0858
+BN 978-1-4799-9994-1
+PY 2015
+BP 4229
+EP 4235
+UT WOS:000371885404062
+DA 2026-08-05
+ER
+
+PT J
+AU Yeh, HH
+   Chang, YW
+   Liu, YC
+AF Yeh, Hua-Hsuan
+   Chang, Yu-Wei
+   Liu, Yen-Chen
+TI Intuitive hand motion-based teleoperation system for human-mobile
+   manipulator interaction using mixed reality
+SO CONTROL ENGINEERING PRACTICE
+LA English
+DT Article
+PU PERGAMON-ELSEVIER SCIENCE LTD
+SN 0967-0661
+EI 1873-6939
+PD NOV
+PY 2025
+VL 164
+AR 106467
+DI 10.1016/j.conengprac.2025.106467
+UT WOS:001530950300001
+DA 2026-08-05
+ER
+
+PT J
+AU Kofman, J
+   Wu, XH
+   Luu, TJ
+   Verma, S
+AF Kofman, J
+   Wu, XH
+   Luu, TJ
+   Verma, S
+TI Teleoperation of a robot manipulator using a vision-based human-robot
+   interface
+SO IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS
+LA English
+DT Article
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+SN 0278-0046
+EI 1557-9948
+PD OCT
+PY 2005
+VL 52
+IS 5
+BP 1206
+EP 1219
+DI 10.1109/TIE.2005.855696
+UT WOS:000232237100003
+DA 2026-08-05
+ER
+
+EF

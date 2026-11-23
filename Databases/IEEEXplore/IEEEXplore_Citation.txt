@@ -1,0 +1,132 @@
+S. An et al., "Dexterous Manipulation Through Imitation Learning: A Survey," in IEEE Transactions on Automation Science and Engineering, vol. 23, pp. 1760-1792, 2026, doi: 10.1109/TASE.2025.3646183.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11305224&isnumber=11323516
+
+Y. Yang et al., "Scalable Dexterous Robot Learning With AR-Based Remote Human–Robot Interactions," in IEEE Transactions on Industrial Electronics, doi: 10.1109/TIE.2026.3713549.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11626955&isnumber=4387790
+
+D. Chen, K. Tang, Y. Zhang, K. Kosuge and Y. Hirata, "Phase-Conditioned Imitation Learning With Autonomous Failure Recovery for Robust Deformable Object Manipulation," in IEEE/ASME Transactions on Mechatronics, doi: 10.1109/TMECH.2026.3698472.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11574903&isnumber=4785241
+
+D. Pavlichenko and S. Behnke, "Dexterous Pre-Grasp Manipulation for Human-Like Functional Categorical Grasping: Deep Reinforcement Learning and Grasp Representations," in IEEE Transactions on Automation Science and Engineering, vol. 23, pp. 2231-2244, 2026, doi: 10.1109/TASE.2025.3541768.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10884934&isnumber=11323516
+
+Y. Qin, H. Su and X. Wang, "From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation From Single-Camera Teleoperation," in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 10873-10881, Oct. 2022, doi: 10.1109/LRA.2022.3196104.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849105&isnumber=9831196
+
+S. K. Sampath et al., "Multi-Finger Grasping with Behavioral Cloning and SAC Fine-Tuning," 2025 30th International Conference on Automation and Computing (ICAC), Loughborough, United Kingdom, 2025, pp. 1-6, doi: 10.1109/ICAC65379.2025.11196132.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11196132&isnumber=11196099
+
+Z. Wang et al., "MoCam-VR: An Occlusion-Resilient Low-Cost Dexterous Hand-arm Teleoperation System for Imitation Learning," 2025 IEEE International Conference on Unmanned Systems (ICUS), Changzhou, China, 2025, pp. 919-926, doi: 10.1109/ICUS66297.2025.11294473.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11294473&isnumber=11293981
+
+Z. Fei, W. Lu, L. Hou, Z. Ye and C. Peng, "Learning to Pick: A Visuomotor Policy for Clustered Strawberry Picking," in IEEE Transactions on AgriFood Electronics, doi: 10.1109/TAFE.2026.3655755.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11372052&isnumber=10042048
+
+J. Huang et al., "DIH-Tele: Dexterous In-Hand Teleoperation Framework for Learning Multiobjects Manipulation With Tactile Sensing," in IEEE/ASME Transactions on Mechatronics, vol. 30, no. 5, pp. 3840-3851, Oct. 2025, doi: 10.1109/TMECH.2025.3532653.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10898061&isnumber=11207545
+
+K. Xu et al., "Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 5938-5945, doi: 10.1109/ICRA48891.2023.10161493.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161493&isnumber=10160212
+
+Z. Jiang et al., "DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning," 2025 IEEE International Conference on Robotics and Automation (ICRA), Atlanta, GA, USA, 2025, pp. 16923-16930, doi: 10.1109/ICRA55743.2025.11127809.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127809&isnumber=11127223
+
+W. Xu, J. Wei, R. Yang and A. Zhang, "Eye Gaze Map as an Efficient State Encoder for Underwater Task Automation," Global Oceans 2020: Singapore – U.S. Gulf Coast, Biloxi, MS, USA, 2020, pp. 1-6, doi: 10.1109/IEEECONF38699.2020.9389330.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9389330&isnumber=9388968
+
+D. Liconti, Y. Toshimitsu and R. Katzschmann, "Leveraging Pretrained Latent Representations for Few-Shot Imitation Learning on an Anthropomorphic Robotic Hand," 2024 IEEE-RAS 23rd International Conference on Humanoid Robots (Humanoids), Nancy, France, 2024, pp. 181-188, doi: 10.1109/Humanoids58906.2024.10769883.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10769883&isnumber=10769590
+
+R. Ding et al., "Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 12248-12255, doi: 10.1109/IROS60139.2025.11247017.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11247017&isnumber=11245652
+
+S. Wang, W. Hu, L. Sun, X. Wang and Z. Li, "Learning Adaptive Grasping From Human Demonstrations," in IEEE/ASME Transactions on Mechatronics, vol. 27, no. 5, pp. 3865-3873, Oct. 2022, doi: 10.1109/TMECH.2021.3132465.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9714723&isnumber=9924619
+
+C. Chen, Z. Yu, H. Choi, M. Cutkosky and J. Bohg, "DexForce: Extracting Force-Informed Actions From Kinesthetic Demonstrations for Dexterous Manipulation," in IEEE Robotics and Automation Letters, vol. 10, no. 6, pp. 6416-6423, June 2025, doi: 10.1109/LRA.2025.3568318.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10993295&isnumber=10969146
+
+K. Wu, Z. Lu and X. Chen, "A Bimanual Teleoperation System of Humanoid Robots for Dexterous Manipulation," 2024 IEEE International Conference on Robotics and Biomimetics (ROBIO), Bangkok, Thailand, 2024, pp. 814-819, doi: 10.1109/ROBIO64047.2024.10907314.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10907314&isnumber=10907273
+
+C. Pérez-D'Arpino and J. A. Shah, "C-LEARN: Learning geometric constraints from demonstrations for multi-step manipulation in shared autonomy," 2017 IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 4058-4065, doi: 10.1109/ICRA.2017.7989466.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7989466&isnumber=7988677
+
+K. Li, D. Chappell and N. Rojas, "Immersive Demonstrations are the Key to Imitation Learning," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 5071-5077, doi: 10.1109/ICRA48891.2023.10160560.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160560&isnumber=10160212
+
+L. Dong, Z. Zhang, Y. Yang and S. Schwertfeger, "Enabling Practical Dexterous Grasping: A Low-Cost VR Teleoperation System with Diffusion Policy and Factor Analysis," 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Chengdu, China, 2025, pp. 1220-1226, doi: 10.1109/ROBIO66223.2025.11377888.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11377888&isnumber=11375854
+
+L. Xie, K. Wu, Z. Chen and X. Chen, "A Human Upper-Limb Motion Tracking System for Humanoid Robots," 2025 5th International Conference on Mechanical Automation and Electronic Information Engineering (MAEIE), Ningbo, China, 2025, pp. 6-10, doi: 10.1109/MAEIE68099.2025.11406001.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11406001&isnumber=11405451
+
+C. Xin, M. Yu, Y. Jiang, Z. Zhang and X. Li, "Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation," in IEEE Robotics and Automation Practice, vol. 1, pp. 29-34, 2026, doi: 10.1109/RAP.2026.3656110.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11359455&isnumber=11278211
+
+H. Kang, H. Ma and W. Li, "CATCH-FORM-ACTer: Compliance-Aware Tactile Control and Hybrid Deformation Regulation-Based Action Transformer for Viscoelastic Object Manipulation," in IEEE Access, vol. 13, pp. 131998-132005, 2025, doi: 10.1109/ACCESS.2025.3591499.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11088097&isnumber=10820123
+
+J. Wang et al., "CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation," 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2024, pp. 17952-17963, doi: 10.1109/CVPR52733.2024.01700.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10655535&isnumber=10654797
+
+T. Kobayashi, M. Kobayashi, T. Buamanee and Y. Uranishi, "Bi-LAT: Bilateral Control-Based Imitation Learning via Natural Language and Action Chunking with Transformers," 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Eindhoven, Netherlands, 2025, pp. 1609-1616, doi: 10.1109/RO-MAN63969.2025.11217852.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11217852&isnumber=11217526
+
+A. George, S. Gano, P. Katragadda and A. B. Farimani, "VITaL Pretraining: Visuo-Tactile Pretraining for Tactile and Non-Tactile Manipulation Policies," 2025 IEEE International Conference on Robotics and Automation (ICRA), Atlanta, GA, USA, 2025, pp. 258-264, doi: 10.1109/ICRA55743.2025.11128336.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128336&isnumber=11127223
+
+H. H. Cheng and J. Hughes, "8-DoFs Cable Driven Parallel Robots for Bimanual Teleoperation," in IEEE/ASME Transactions on Mechatronics, vol. 31, no. 2, pp. 1885-1896, April 2026, doi: 10.1109/TMECH.2025.3610192.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11203810&isnumber=11483178
+
+Z. Wan, Z. Zhou, Z. Bi, Z. Yang, H. Ding and H. Cheng, "Design of an Affordable, Fully-Actuated Biomimetic Hand for Dexterous Teleoperation Systems," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 8487-8494, doi: 10.1109/IROS60139.2025.11245814.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11245814&isnumber=11245652
+
+Z. Li et al., "UniBiDex: A Unified Teleoperation Framework for Robotic Bimanual Dexterous Manipulation," 2025 IEEE International Conference on Robotics and Biomimetics (ROBIO), Chengdu, China, 2025, pp. 776-782, doi: 10.1109/ROBIO66223.2025.11377995.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11377995&isnumber=11375854
+
+M. Mosbach, K. Moraw and S. Behnke, "Accelerating Interactive Human-like Manipulation Learning with GPU-based Simulation and High-quality Demonstrations," 2022 IEEE-RAS 21st International Conference on Humanoid Robots (Humanoids), Ginowan, Japan, 2022, pp. 435-441, doi: 10.1109/Humanoids53995.2022.10000161.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10000161&isnumber=9999739
+
+T. Chen, E. Cousineau, N. Kuppuswamy and P. Agrawal, "Vegetable Peeling: A Case Study in Constrained Dexterous Manipulation," 2025 IEEE International Conference on Robotics and Automation (ICRA), Atlanta, GA, USA, 2025, pp. 4542-4550, doi: 10.1109/ICRA55743.2025.11127224.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11127224&isnumber=11127223
+
+D. Whitney, E. Rosen, D. Ullman, E. Phillips and S. Tellex, "ROS Reality: A Virtual Reality Framework Using Consumer-Grade Hardware for ROS-Enabled Robots," 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Madrid, Spain, 2018, pp. 1-9, doi: 10.1109/IROS.2018.8593513.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8593513&isnumber=8593358
+
+X. Chao et al., "Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 18732-18739, doi: 10.1109/IROS60139.2025.11246287.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246287&isnumber=11245652
+
+Y. Zhou, H. Huang, C. Yang and W. Ye, "IntuiGrasp: Bio-Inspired Dexterous Hand with Intuitive Teaching," in Artificial Intelligence Science and Engineering, vol. 1, no. 3, pp. 220-228, September 2025, doi: 10.23919/AISE.2025.000015.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11201022&isnumber=11200998
+
+J. Lin et al., "TIMS: A Tactile Internet-Based Micromanipulation System with Haptic Guidance for Surgical Training," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 5114-5121, doi: 10.1109/IROS55552.2023.10341980.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10341980&isnumber=10341342
+
+C. Schlagenhauf et al., "Control of Tendon-Driven Soft Foam Robot Hands," 2018 IEEE-RAS 18th International Conference on Humanoid Robots (Humanoids), Beijing, China, 2018, pp. 1-7, doi: 10.1109/HUMANOIDS.2018.8624937.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8624937&isnumber=8624912
+
+K. Li, P. Li, T. Liu, Y. Li and S. Huang, "ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning," 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, 2025, pp. 6991-7003, doi: 10.1109/CVPR52734.2025.00656.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11094147&isnumber=11091608
+
+S. Sujit, L. Nunziante, D. O. Lillrank, R. F. J. Dossa and K. Arulkumaran, "Improving Low-Cost Teleoperation: Augmenting GELLO with Force," 2025 IEEE/SICE International Symposium on System Integration (SII), Munich, Germany, 2025, pp. 747-752, doi: 10.1109/SII59315.2025.10871050.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10871050&isnumber=10870581
+
+S. Li et al., "A Mobile Robot Hand-Arm Teleoperation System by Vision and IMU," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, 2020, pp. 10900-10906, doi: 10.1109/IROS45743.2020.9340738.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9340738&isnumber=9340635
+
+C. C. Christoph et al., "ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning," 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025, pp. 8503-8510, doi: 10.1109/IROS60139.2025.11246681.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11246681&isnumber=11245652
+
+H. Zhu et al., "Should We Learn Contact-Rich Manipulation Policies From Sampling-Based Planners?," in IEEE Robotics and Automation Letters, vol. 10, no. 6, pp. 6248-6255, June 2025, doi: 10.1109/LRA.2025.3564701.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10977833&isnumber=10969146
+
+S. Oh, T. Takahashi, C. C. Beltran-Hernandez, Y. Kuroda and M. Hamaya, "A Flexible Wrist With Anisotropic and Selectable Stiffness for Robust Contact-Rich Manipulation," in IEEE Robotics and Automation Letters, vol. 11, no. 8, pp. 9922-9929, Aug. 2026, doi: 10.1109/LRA.2026.3709079.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11592748&isnumber=11570239
+
+S. P. Arunachalam, I. Güzey, S. Chintala and L. Pinto, "Holo-Dex: Teaching Dexterity with Immersive Mixed Reality," 2023 IEEE International Conference on Robotics and Automation (ICRA), London, United Kingdom, 2023, pp. 5962-5969, doi: 10.1109/ICRA48891.2023.10160547.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10160547&isnumber=10160212
+
+T. Lin et al., "Learning Visuotactile Skills With Two Multifingered Hands," 2025 IEEE International Conference on Robotics and Automation (ICRA), Atlanta, GA, USA, 2025, pp. 5637-5643, doi: 10.1109/ICRA55743.2025.11128180.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11128180&isnumber=11127223
+

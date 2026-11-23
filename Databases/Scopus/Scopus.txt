@@ -1,0 +1,647 @@
+Scopus
+EXPORT DATE: 05 August 2026
+
+Liang S., Xie D., Li D., Zhang H., Jia X., Wang F.-Y., Li Y., Li L.
+AUTHOR FULL NAMES: Liang, Shutong (60115645900); Xie, Dongjin (60712990500); Li, Dong (60196825200); Zhang, Hui (57216240519); Jia, Xiaofeng (56683680900); Wang, Fei-Yue (57211758869); Li, Yidong (54955980500); Li, Lingxi (26659839200)
+60115645900; 60712990500; 60196825200; 57216240519; 56683680900; 57211758869; 54955980500; 26659839200
+Dexterous robotic hands: enabling general-purpose manipulation [机器人灵巧手：迈向通用操作的关键技术]
+(2026) Journal of Image and Graphics, 31 (6), pp. 1942 - 1970, Cited 0 times.
+DOI: 10.11834/jig.260100
+https://www.scopus.com/pages/publications/105042839483?origin=resultslist
+
+PUBLISHER: Editorial and Publishing Board of JIG
+ISSN: 10068961
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: J. Image and Graphics
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14268 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175969896?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Yin Z., Liu L., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996485-7
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Mosbach M., Moraw K., Behnke S.
+AUTHOR FULL NAMES: Mosbach, Malte (57229908600); Moraw, Kara (58021848000); Behnke, Sven (13007277900)
+57229908600; 58021848000; 13007277900
+Accelerating Interactive Human-like Manipulation Learning with GPU-based Simulation and High-quality Demonstrations
+(2022) IEEE-RAS International Conference on Humanoid Robots, 2022-November, pp. 435 - 441, Cited 10 times.
+DOI: 10.1109/Humanoids53995.2022.10000161
+https://www.scopus.com/pages/publications/85146320274?origin=resultslist
+
+PUBLISHER: IEEE Computer Society
+CONFERENCE NAME: 21st IEEE-RAS International Conference on Humanoid Robots, Humanoids 2022
+CONFERENCE DATE: 28 November 2022 through 30 November 2022
+CONFERENCE LOCATION: Ginowan
+CONFERENCE CODE: 185906
+ISSN: 21640572
+ISBN: 979-835030979-9
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE-RAS Int. Conf. Humanoid Rob.
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Yamane K.
+AUTHOR FULL NAMES: Yamane, Katsu (35410577600)
+35410577600
+Kinematic Redundancy Resolution for Humanoid Robots by Human Motion Database
+(2020) IEEE Robotics and Automation Letters, 5 (4), art. no. 9206142, pp. 6948 - 6955, Cited 6 times.
+DOI: 10.1109/LRA.2020.3026972
+https://www.scopus.com/pages/publications/85091932463?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 23773766
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Robot. Autom.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lv R., Yang G.
+AUTHOR FULL NAMES: Lv, Runze (60434886400); Yang, Gengke (60434759200)
+60434886400; 60434759200
+Vi-RoIL: Video-to-Robot Imitation Learning for Bimanual Dexterous Manipulation from Human Video
+(2026) Proceedings of 2025 International Conference on Embodied Intelligence and Large Models, EILM 2025, pp. 30 - 38, Cited 0 times.
+DOI: 10.1145/3788731.3788736
+https://www.scopus.com/pages/publications/105031770925?origin=resultslist
+
+PUBLISHER: Association for Computing Machinery, Inc
+CONFERENCE NAME: 2025 International Conference on Embodied Intelligence and Large Models, EILM 2025
+CONFERENCE DATE: 19 December 2025 through 21 December 2025
+CONFERENCE LOCATION: Chengdu
+CONFERENCE CODE: 218411
+ISBN: 979-840072230-1
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Proc. Int. Conf. Embodied Intell. Large Models, EILM
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14270 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175819363?origin=resultslist
+
+EDITORS: Yang H., Liu H., Zou J., Yin Z., Liu L., Yang G., Ouyang X., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996491-8
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14269 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175949340?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Wang Z., Yin Z., Liu L.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996488-8
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sampath S.K., He B., Pearson M., Wu H., Liu C., Yang C., Wang N.
+AUTHOR FULL NAMES: Sampath, Suhas Kadalagere (58836084300); He, Bozhen (60191082000); Pearson, Martin (8366486600); Wu, Hao (58109465300); Liu, Cunjia (57196115942); Yang, Chenguang (55671767000); Wang, Ning (55446268900)
+58836084300; 60191082000; 8366486600; 58109465300; 57196115942; 55671767000; 55446268900
+Multi-Finger Grasping with Behavioral Cloning and SAC Fine-Tuning
+(2025) ICAC 2025 - 30th International Conference on Automation and Computing, Cited 0 times.
+DOI: 10.1109/ICAC65379.2025.11196132
+https://www.scopus.com/pages/publications/105021489048?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 30th International Conference on Automation and Computing, ICAC 2025
+CONFERENCE DATE: 27 August 2025 through 29 August 2025
+CONFERENCE LOCATION: Loughborough
+CONFERENCE CODE: 214061
+ISBN: 979-833152545-3
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: ICAC - Int. Conf. Autom. Comput.
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14267 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85176009520?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Wang Z., Yin Z., Liu L.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996482-6
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Li K., Chappell D., Rojas N.
+AUTHOR FULL NAMES: Li, Kelin (59785190100); Chappell, Digby (57219758805); Rojas, Nicolas (36606787800)
+59785190100; 57219758805; 36606787800
+Immersive Demonstrations are the Key to Imitation Learning
+(2023) Proceedings - IEEE International Conference on Robotics and Automation, 2023-May, pp. 5071 - 5077, Cited 5 times.
+DOI: 10.1109/ICRA48891.2023.10160560
+https://www.scopus.com/pages/publications/85168652128?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2023 IEEE International Conference on Robotics and Automation, ICRA 2023
+CONFERENCE DATE: 29 May 2023 through 2 June 2023
+CONFERENCE LOCATION: London
+CONFERENCE CODE: 190430
+ISSN: 10504729
+ISBN: 979-835032365-8
+CODEN: PIIAE
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Proc IEEE Int Conf Rob Autom
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Huang J., Chen K., Zhou J., Lin X., Abbeel P., Dou Q., Liu Y.
+AUTHOR FULL NAMES: Huang, Junda (57267169600); Chen, Kai (57190166328); Zhou, Jianshu (57195419573); Lin, Xingyu (57210799600); Abbeel, Pieter (8269962600); Dou, Qi (56903795500); Liu, Yunhui (57203136059)
+57267169600; 57190166328; 57195419573; 57210799600; 8269962600; 56903795500; 57203136059
+DIH-Tele: Dexterous In-Hand Teleoperation Framework for Learning Multiobjects Manipulation With Tactile Sensing
+(2025) IEEE/ASME Transactions on Mechatronics, 30 (5), pp. 3840 - 3851, Cited 14 times.
+DOI: 10.1109/TMECH.2025.3532653
+https://www.scopus.com/pages/publications/85218768536?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 10834435
+CODEN: IATEF
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE ASME Trans Mechatron
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chao X., Mu S., Liu Y., Li S., Lyu C., Zhang X.-P., Ding W.
+AUTHOR FULL NAMES: Chao, Xintao (59706334000); Mu, Shilong (58134654900); Liu, Yushan (59706962300); Li, Shoujie (57446137400); Lyu, Chuqiao (57205251740); Zhang, Xiao-Ping (58725997900); Ding, Wenbo (57220989707)
+59706334000; 58134654900; 59706962300; 57446137400; 57205251740; 58725997900; 57220989707
+Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning
+(2025) IEEE International Conference on Intelligent Robots and Systems , pp. 18732 - 18739, Cited 0 times.
+DOI: 10.1109/IROS60139.2025.11246287
+https://www.scopus.com/pages/publications/105029920118?origin=resultslist
+
+EDITORS: Laugier C., Renzaglia A., Atanasov N., Birchfield S., Cielniak G., De Mattos L., Fiorini L., Giguere P., Hashimoto K., Ibanez-Guzman J., Kamegawa T., Lee J., Loianno G., Luck K., Maruyama H., Martinet P., Moradi H., Nunes U., Pettre J., Pretto A., Ranzani T., Ronnau A., Rossi S., Rouse E., Ruggiero F., Simonin O., Wang D., Yang M., Yoshida E., Zhao H.
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025
+CONFERENCE DATE: 19 October 2025 through 25 October 2025
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 217061
+ISSN: 21530858
+ISBN: 979-833154393-8
+CODEN: 85RBA
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Int Conf Intell Rob Syst
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Qin Y., Su H., Wang X.
+AUTHOR FULL NAMES: Qin, Yuzhe (57219507801); Su, Hao (55208624800); Wang, Xiaolong (57141185000)
+57219507801; 55208624800; 57141185000
+From One Hand to Multiple Hands: Imitation Learning for Dexterous Manipulation From Single-Camera Teleoperation
+(2022) IEEE Robotics and Automation Letters, 7 (4), pp. 10873 - 10881, Cited 97 times.
+DOI: 10.1109/LRA.2022.3196104
+https://www.scopus.com/pages/publications/85135746483?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 23773766
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Robot. Autom.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14273 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175979526?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Yin Z., Liu L., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996497-0
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Inami K., Konosu M., Yamane K., Masuya N., Li Y., Shu Y.-H., Sato H., Homma S., Sakaino S.
+AUTHOR FULL NAMES: Inami, Koki (58894096100); Konosu, Masashi (59469463700); Yamane, Koki (58725918100); Masuya, Nozomu (59465768100); Li, Yunhan (59933879700); Shu, Yu-Han (59933699500); Sato, Hiroshi (59469629400); Homma, Shinnosuke (59934603700); Sakaino, Sho (20434698200)
+58894096100; 59469463700; 58725918100; 59465768100; 59933879700; 59933699500; 59469629400; 59934603700; 20434698200
+Motion generation for food topping challenge 2024: serving salmon roe bowl and picking fried chicken
+(2025) Advanced Robotics, 39 (17), pp. 1124 - 1136, Cited 2 times.
+DOI: 10.1080/01691864.2025.2511100
+https://www.scopus.com/pages/publications/105007535154?origin=resultslist
+
+PUBLISHER: Robotics Society of Japan
+ISSN: 01691864
+CODEN: ADROE
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Adv .Rob.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Christoph C.C., Eberlein M., Katsimalis F., Roberti A., Sympetheros A., Vogt M.R., Liconti D., Yang C., Cangan B.G., Hinchet R.J., Katzschmann R.K.
+AUTHOR FULL NAMES: Christoph, Clemens C. (59123889400); Eberlein, Maximilian (59123463800); Katsimalis, Filippos (59866210500); Roberti, Arturo (59866210600); Sympetheros, Aristotelis (59862539900); Vogt, Michel R. (59123889500); Liconti, Davide (59120998900); Yang, Chenyu (58316424700); Cangan, Barnabas Gavin (57221140831); Hinchet, Ronan J. (53363645600); Katzschmann, Robert K. (56031680900)
+59123889400; 59123463800; 59866210500; 59866210600; 59862539900; 59123889500; 59120998900; 58316424700; 57221140831; 53363645600; 56031680900
+ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning
+(2025) IEEE International Conference on Intelligent Robots and Systems , pp. 8503 - 8510, Cited 2 times.
+DOI: 10.1109/IROS60139.2025.11246681
+https://www.scopus.com/pages/publications/105029921728?origin=resultslist
+
+EDITORS: Laugier C., Renzaglia A., Atanasov N., Birchfield S., Cielniak G., De Mattos L., Fiorini L., Giguere P., Hashimoto K., Ibanez-Guzman J., Kamegawa T., Lee J., Loianno G., Luck K., Maruyama H., Martinet P., Moradi H., Nunes U., Pettre J., Pretto A., Ranzani T., Ronnau A., Rossi S., Rouse E., Ruggiero F., Simonin O., Wang D., Yang M., Yoshida E., Zhao H.
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025
+CONFERENCE DATE: 19 October 2025 through 25 October 2025
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 217061
+ISSN: 21530858
+ISBN: 979-833154393-8
+CODEN: 85RBA
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Int Conf Intell Rob Syst
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chen D., Tang K., Zhang Y., Kosuge K., Hirata Y.
+AUTHOR FULL NAMES: Chen, Dayuan (57208506616); Tang, Kai (57984464700); Zhang, Yukuan (59397246800); Kosuge, Kazuhiro (55821756500); Hirata, Yasuhisa (7402006534)
+57208506616; 57984464700; 59397246800; 55821756500; 7402006534
+Phase-Conditioned Imitation Learning With Autonomous Failure Recovery for Robust Deformable Object Manipulation
+(2026) IEEE/ASME Transactions on Mechatronics, Cited 0 times.
+DOI: 10.1109/TMECH.2026.3698472
+https://www.scopus.com/pages/publications/105043437934?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 10834435
+CODEN: IATEF
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE ASME Trans Mechatron
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Article in press
+SOURCE: Scopus
+
+Xie L., Wu K., Chen Z., Chen X.
+AUTHOR FULL NAMES: Xie, Lexin (60594573200); Wu, Kunpeng (57434559400); Chen, Zhaozheng (60594688400); Chen, Xiaoqi (8626738900)
+60594573200; 57434559400; 60594688400; 8626738900
+A Human Upper-Limb Motion Tracking System for Humanoid Robots
+(2025) 2025 5th International Conference on Mechanical Automation and Electronic Information Engineering, MAEIE 2025, pp. 6 - 10, Cited 0 times.
+DOI: 10.1109/MAEIE68099.2025.11406001
+https://www.scopus.com/pages/publications/105036505128?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 5th International Conference on Mechanical Automation and Electronic Information Engineering, MAEIE 2025
+CONFERENCE DATE: 27 November 2025 through 29 November 2025
+CONFERENCE LOCATION: Ningbo
+CONFERENCE CODE: 221503
+ISBN: 979-833158944-8
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Int. Conf. Mech. Autom. Electr. Inf. Eng., MAEIE
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14272 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85176018164?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Yin Z., Liu L., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996479-6
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14275 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175943457?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Yin Z., Liu L., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996503-8
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wang Z., Jiang X., Shao Q., Zhou Z., Li H., Chen G., Yang Y., Yue Y.
+AUTHOR FULL NAMES: Wang, Zimo (60436759000); Jiang, Xinran (60139971900); Shao, Qi (60437065000); Zhou, Zichen (60222866400); Li, Haoyang (60436608600); Chen, Guangyan (57387238000); Yang, Yi (56338006700); Yue, Yufeng (57193681003)
+60436759000; 60139971900; 60437065000; 60222866400; 60436608600; 57387238000; 56338006700; 57193681003
+MoCam-VR: An Occlusion-Resilient Low-Cost Dexterous Hand-arm Teleoperation System for Imitation Learning
+(2025) Proceedings of 2025 IEEE International Conference on Unmanned Systems, ICUS 2025, pp. 919 - 926, Cited 0 times.
+DOI: 10.1109/ICUS66297.2025.11294473
+https://www.scopus.com/pages/publications/105031894017?origin=resultslist
+
+EDITORS: Song R.
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2025 IEEE International Conference on Unmanned Systems, ICUS 2025
+CONFERENCE DATE: 18 September 2025 through 19 September 2025
+CONFERENCE LOCATION: Changzhou
+CONFERENCE CODE: 218483
+ISBN: 979-833152672-6
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Proc. IEEE Int. Conf. Unmanned Syst., ICUS
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+An S., Meng Z., Tang C., Zhou Y., Liu T., Ding F., Zhang S., Mu Y., Song R., Zhang W., Hou Z.-G., Zhang H.
+AUTHOR FULL NAMES: An, Shan (57202495145); Meng, Ziyu (58626835200); Tang, Chao (57220993535); Zhou, Yuning (59835352400); Liu, Tengyu (57307487800); Ding, Fangqiang (59831160100); Zhang, Shufang (57191923143); Mu, Yao (57219693991); Song, Ran (36716771200); Zhang, Wei (57201591153); Hou, Zeng-Guang (57218664616); Zhang, Hong (57188562671)
+57202495145; 58626835200; 57220993535; 59835352400; 57307487800; 59831160100; 57191923143; 57219693991; 36716771200; 57201591153; 57218664616; 57188562671
+Dexterous Manipulation Through Imitation Learning: A Survey
+(2026) IEEE Transactions on Automation Science and Engineering, 23, pp. 1760 - 1792, Cited 3 times.
+DOI: 10.1109/TASE.2025.3646183
+https://www.scopus.com/pages/publications/105026048711?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 15455955
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Trans. Autom. Sci. Eng.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Xu W., Wei J., Yang R., Zhang A.
+AUTHOR FULL NAMES: Xu, Wenjun (56118954200); Wei, Jianfeng (57223043312); Yang, Renyou (58017999000); Zhang, Aidong (57196403720)
+56118954200; 57223043312; 58017999000; 57196403720
+Eye Gaze Map as an Efficient State Encoder for Underwater Task Automation
+(2020) 2020 Global Oceans 2020: Singapore - U.S. Gulf Coast, art. no. 9389330, Cited 0 times.
+DOI: 10.1109/IEEECONF38699.2020.9389330
+https://www.scopus.com/pages/publications/85104621244?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2020 Global Oceans: Singapore - U.S. Gulf Coast, OCEANS 2020
+CONFERENCE DATE: 5 October 2020 through 30 October 2020
+CONFERENCE LOCATION: Biloxi
+CONFERENCE CODE: 168366
+ISBN: 978-172815446-6
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Glob. Oceans: Singapore - U.S. Gulf Coast
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Li G., Wang R., Xu P., Ye Q., Chen J.
+AUTHOR FULL NAMES: Li, Gaofeng (56927072100); Wang, Ruize (58637125100); Xu, Peisen (59419046400); Ye, Qi (57201431769); Chen, Jiming (55902702200)
+56927072100; 58637125100; 59419046400; 57201431769; 55902702200
+The Developments and Challenges Toward Dexterous and Embodied Robotic Manipulation: A Survey
+(2026) IEEE Robotics and Automation Magazine, 33 (1), pp. 24 - 38, Cited 5 times.
+DOI: 10.1109/MRA.2025.3642671
+https://www.scopus.com/pages/publications/105026263585?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 10709932
+CODEN: IRAME
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Rob Autom Mag
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Xu K., Hu Z., Doshi R., Rovinsky A., Kumar V., Gupta A., Levine S.
+AUTHOR FULL NAMES: Xu, Kelvin (57202579207); Hu, Zheyuan (57219338512); Doshi, Ria (58034088300); Rovinsky, Aaron (57223756742); Kumar, Vikash (57202530476); Gupta, Abhishek (57216316623); Levine, Sergey (35731728100)
+57202579207; 57219338512; 58034088300; 57223756742; 57202530476; 57216316623; 35731728100
+Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance
+(2023) Proceedings - IEEE International Conference on Robotics and Automation, 2023-May, pp. 5938 - 5945, Cited 15 times.
+DOI: 10.1109/ICRA48891.2023.10161493
+https://www.scopus.com/pages/publications/85168683545?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2023 IEEE International Conference on Robotics and Automation, ICRA 2023
+CONFERENCE DATE: 29 May 2023 through 2 June 2023
+CONFERENCE LOCATION: London
+CONFERENCE CODE: 190430
+ISSN: 10504729
+ISBN: 979-835032365-8
+CODEN: PIIAE
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Proc IEEE Int Conf Rob Autom
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Li K., Li P., Liu T., Li Y., Huang S.
+AUTHOR FULL NAMES: Li, Kailin (57221635328); Li, Puhao (57928741900); Liu, Tengyu (57307487800); Li, Yuyang (57933740000); Huang, Siyuan (57089284100)
+57221635328; 57928741900; 57307487800; 57933740000; 57089284100
+ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning
+(2025) Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition, pp. 6991 - 7003, Cited 11 times.
+DOI: 10.1109/CVPR52734.2025.00656
+https://www.scopus.com/pages/publications/105017049451?origin=resultslist
+
+PUBLISHER: IEEE Computer Society
+CONFERENCE NAME: 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2025
+CONFERENCE DATE: 11 June 2025 through 15 June 2025
+CONFERENCE LOCATION: Nashville
+CONFERENCE CODE: 211514
+ISSN: 10636919
+CODEN: PIVRE
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Proc IEEE Comput Soc Conf Comput Vision Pattern Recognit
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sujit S., Nunziante L., Lillrank D.O., Dossa R.F.J., Arulkumaran K.
+AUTHOR FULL NAMES: Sujit, Shivakanth (57285245500); Nunziante, Luca (59672667000); Lillrank, Dan Ogawa (57234659200); Dossa, Rousslan Fernand Julien (57219288071); Arulkumaran, Kai (57191492242)
+57285245500; 59672667000; 57234659200; 57219288071; 57191492242
+Improving Low-Cost Teleoperation: Augmenting GELLO with Force
+(2025) 2025 IEEE/SICE International Symposium on System Integration, SII 2025, pp. 747 - 752, Cited 1 times.
+DOI: 10.1109/SII59315.2025.10871050
+https://www.scopus.com/pages/publications/86000210606?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2025 IEEE/SICE International Symposium on System Integration, SII 2025
+CONFERENCE DATE: 21 January 2025 through 24 January 2025
+CONFERENCE LOCATION: Munich
+CONFERENCE CODE: 206814
+ISBN: 979-833153161-4
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE/SICE Int. Symp. Syst. Integr., SII
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Kamijo T., Beltran-Hernandez C.C., Hamaya M.
+AUTHOR FULL NAMES: Kamijo, Tatsuya (58647026700); Beltran-Hernandez, Cristian C. (57208738786); Hamaya, Masashi (56743162600)
+58647026700; 57208738786; 56743162600
+Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System
+(2024) IEEE International Conference on Intelligent Robots and Systems, pp. 12663 - 12670, Cited 15 times.
+DOI: 10.1109/IROS58592.2024.10801731
+https://www.scopus.com/pages/publications/85212554733?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+CONFERENCE NAME: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2024
+CONFERENCE DATE: 14 October 2024 through 18 October 2024
+CONFERENCE LOCATION: Abu Dhabi
+CONFERENCE CODE: 205527
+ISSN: 21530858
+ISBN: 979-835037770-5
+CODEN: 85RBA
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Int Conf Intell Rob Syst
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Chen C., Yu Z., Choi H., Cutkosky M., Bohg J.
+AUTHOR FULL NAMES: Chen, Claire (57222142988); Yu, Zhongchun (59538685400); Choi, Hojung (57215524740); Cutkosky, Mark (7006155150); Bohg, Jeannette (35071071500)
+57222142988; 59538685400; 57215524740; 7006155150; 35071071500
+DexForce: Extracting Force-Informed Actions From Kinesthetic Demonstrations for Dexterous Manipulation
+(2025) IEEE Robotics and Automation Letters, 10 (6), pp. 6416 - 6423, Cited 9 times.
+DOI: 10.1109/LRA.2025.3568318
+https://www.scopus.com/pages/publications/105004935318?origin=resultslist
+
+PUBLISHER: Institute of Electrical and Electronics Engineers Inc.
+ISSN: 23773766
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Robot. Autom.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kobayashi T., Kobayashi M., Buamanee T., Uranishi Y.
+AUTHOR FULL NAMES: Kobayashi, Takumi (59464808800); Kobayashi, Masato (57202046715); Buamanee, Thanpimon (58864488800); Uranishi, Yuki (35321680700)
+59464808800; 57202046715; 58864488800; 35321680700
+Bi-LAT: Bilateral Control-Based Imitation Learning via Natural Language and Action Chunking with Transformers
+(2025) IEEE International Workshop on Robot and Human Communication, RO-MAN, pp. 1609 - 1616, Cited 0 times.
+DOI: 10.1109/RO-MAN63969.2025.11217852
+https://www.scopus.com/pages/publications/105024546886?origin=resultslist
+
+PUBLISHER: IEEE Computer Society
+CONFERENCE NAME: 34th IEEE International Conference on Robot and Human Interactive Communication, RO-MAN 2025
+CONFERENCE DATE: 25 August 2025 through 29 August 2025
+CONFERENCE LOCATION: Hybrid, Eindhoven
+CONFERENCE CODE: 215223
+ISSN: 19449445
+ISBN: 979-833158771-0
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: IEEE Int. Workshop Robot Human Commun., RO-MAN
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14274 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175943768?origin=resultslist
+
+EDITORS: Yang H., Zou J., Yang G., Ouyang X., Liu H., Yin Z., Liu L., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996500-7
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Li S., Huang Z., Chen T., Du T., Su H., Tenenbaum J.B., Gan C.
+AUTHOR FULL NAMES: Li, Sizhe (58849552800); Huang, Zhiao (56141269600); Chen, Tao (57223776662); Du, Tao (57204922284); Su, Hao (55208624800); Tenenbaum, Joshua B. (7006818404); Gan, Chuang (57141834200)
+58849552800; 56141269600; 57223776662; 57204922284; 55208624800; 7006818404; 57141834200
+DEXDEFORM: DEXTEROUS DEFORMABLE OBJECT MANIPULATION WITH HUMAN DEMONSTRATIONS AND DIFFERENTIABLE PHYSICS
+(2023) 11th International Conference on Learning Representations, ICLR 2023, Cited 17 times.
+https://www.scopus.com/pages/publications/85199194111?origin=resultslist
+
+PUBLISHER: International Conference on Learning Representations, ICLR
+CONFERENCE NAME: 11th International Conference on Learning Representations, ICLR 2023
+CONFERENCE DATE: 1 May 2023 through 5 May 2023
+CONFERENCE LOCATION: Kigali
+CONFERENCE CODE: 200817
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Int. Conf. Learn. Represent., ICLR
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+(2023) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 14271 LNAI, Cited 0 times.
+https://www.scopus.com/pages/publications/85175972782?origin=resultslist
+
+EDITORS: Yang H., Liu H., Zou J., Yin Z., Liu L., Yang G., Ouyang X., Wang Z.
+PUBLISHER: Springer Science and Business Media Deutschland GmbH
+CONFERENCE NAME: 16th International Conference on Intelligent Robotics and Applications, ICIRA 2023
+CONFERENCE DATE: 5 July 2023 through 7 July 2023
+CONFERENCE LOCATION: Hangzhou
+CONFERENCE CODE: 302819
+ISSN: 03029743
+ISBN: 978-981996494-9
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Lect. Notes Comput. Sci.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Ojaghi P., Mir R., Marjaninejad A., Erwin A., Wehner M., Valero-Cuevas F.J.
+AUTHOR FULL NAMES: Ojaghi, Pegah (57191190643); Mir, Romina (57219689772); Marjaninejad, Ali (56568474100); Erwin, Andrew (56136211700); Wehner, Michael (59021761300); Valero-Cuevas, Francisco J. (6603776700)
+57191190643; 57219689772; 56568474100; 56136211700; 59021761300; 6603776700
+Curriculum is more influential than haptic feedback when learning object manipulation
+(2025) Science Advances , 11 (14), art. no. eadp8407, Cited 3 times.
+DOI: 10.1126/sciadv.adp8407
+https://www.scopus.com/pages/publications/105002036942?origin=resultslist
+
+PUBLISHER: American Association for the Advancement of Science
+ISSN: 23752548
+PUBMED ID: 40173249
+LANGUAGE OF ORIGINAL DOCUMENT: English
+ABBREVIATED SOURCE TITLE: Sci. Adv.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
