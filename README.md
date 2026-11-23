@@ -8,7 +8,7 @@ This repository contains the data and search evidence for the systematic review:
 
 ## Abstract
 
-Robots that handle fragile and deformable objects, ranging from food and fabric to the human body, must apply enough force to complete a task without damaging the object. Reinforcement learning (RL) and imitation learning (IL) are increasingly used to learn such skills, and teleoperation provides a source of demonstrations as well as a human safeguard during execution. However, the way these methods account for fragility, and how control is shared between the operator and the learned policy, have not been systematically examined. This paper addresses that gap through a PRISMA-guided systematic literature review of studies published between 2005 and 2026. From 192 records retrieved from Scopus, Web of Science, and IEEE Xplore, 135 studies were included and classified in a faceted taxonomy; a bibliometric analysis of 124 documents investigated the growth and structure of the field, and the 83 studies that passed quality assessment were analysed critically. The analysis shows that IL has become the dominant approach in this field. Even so, fragility is rarely encoded and not enforced: only 1 of the 15 delicate-object studies that use RL includes a force term in the reward, 17 of the 35 delicate-object studies do not measure contact force at all, and none of these studies set an explicit force limit. The operator is hardly ever used as a safeguard, with 32 of these 35 studies running the policy in full autonomy, and evaluation barely establishes safe handling, as most studies define their own tasks and  only few of these studies count damage as failure. Building on these findings, the review proposes a design framework for learning-based teleoperated manipulation of delicate objects and identifies open challenges in fragility-aware learning, operator-in-the-loop control, evaluation, and deformable-object simulation.
+Robots that handle fragile and deformable objects, ranging from food and fabric to the human body, must apply enough force to complete a task without damaging the object. Reinforcement learning (RL) and imitation learning (IL) are increasingly used to learn such skills, and teleoperation provides a source of demonstrations as well as a human safeguard during execution. However, the way these methods account for fragility, and how control is shared between the operator and the learned policy, have not been systematically examined. This paper addresses that gap through a PRISMA-guided systematic literature review of studies published between 2005 and 2026. From 192 records retrieved from Scopus, Web of Science, and IEEE Xplore, 135 studies were included and classified in a faceted taxonomy; a bibliometric analysis of 124 documents investigated the growth and structure of the field, and the 83 studies that passed quality assessment were analysed critically. The analysis shows that IL has become the dominant approach in this field. Even so, fragility is rarely encoded and not enforced: only 1 of the 15 delicate-object studies that use RL includes a force term in the reward, 17 of the 35 delicate-object studies do not measure contact force at all, and none of these studies set an explicit force limit. The operator is hardly ever used as a safeguard, with 32 of these 35 studies running the policy in full autonomy, and evaluation barely establishes safe handling, as most studies define their own tasks and only a few count damage as failure. Building on these findings, the review proposes a design framework for learning-based teleoperated manipulation of delicate objects and identifies open challenges in fragility-aware learning, operator-in-the-loop control, evaluation, and deformable-object simulation.
 
 ## Research highlights
 
@@ -22,7 +22,7 @@ Robots that handle fragile and deformable objects, ranging from food and fabric 
 ## PRISMA flow diagram
 
 <p align="center">
-  <img src="figures/PRISMA.pdf" alt="PRISMA 2020 flow diagram of the review" width="700">
+  <img src="figures/PRISMA.png" alt="PRISMA 2020 flow diagram of the review" width="700">
 </p>
 
 ## Databases and exports
@@ -35,8 +35,10 @@ Three databases were searched on **5 August 2026**. The search strings for each 
 | Scopus                           |                34 | [`Databases/Scopus/`](Databases/Scopus/)         | [screenshot](Databases/Scopus/Scopus_search_evidence.png)         |
 | IEEE Xplore                      |                44 | [`Databases/IEEEXplore/`](Databases/IEEEXplore/) | [screenshot](Databases/IEEEXplore/IEEEXplore_search_evidence.png) |
 | **Total**                        |           **192** |                                                  |                                                                   |
+
 The database exports have been reduced to bibliographic identifiers (authors, title, source, year, DOI, and database IDs). The full exports are available from the corresponding author on request.
-The WoS and Scopus records (148) were merged in Biblioshiny, which removed 24 duplicates and left the **124 records used for the bibliometric analysis**. These were merged with the IEEE Xplore records, and a further 27 duplicates were removed, giving **141 unique records** for screening. 
+
+The WoS and Scopus records (148) were merged in Biblioshiny, which removed 24 duplicates and left the **124 records used for the bibliometric analysis**. These were merged with the IEEE Xplore records, and a further 27 duplicates were removed, giving **141 unique records** for screening.
 
 ### Master spreadsheet
 
@@ -48,7 +50,7 @@ The WoS and Scopus records (148) were merged in Biblioshiny, which removed 24 du
 | WoS + Scopus + IEEE | The 141 unique records after removing duplicates                       |
 | Eligible            | The 135 studies that met the eligibility criteria                      |
 | Quality assessment  | Scores on QA1-QA5 and the pass/fail decision for the 135 studies       |
-| Taxonomy            | Classification of the 129 coded studies (the 6 reviews were not coded) |
+| Taxonomy            | The 129 studies coded in the taxonomy (the 6 reviews are marked as excluded) |
 
 ### Repository structure
 
